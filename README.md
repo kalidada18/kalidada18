@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #FF1744;" alt="Sujal Lamichhane AI Avatar" />
+<img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=300&h=300" width="150" height="150" alt="Sujal Lamichhane AI Avatar" />
 
 <br/><br/>
 
