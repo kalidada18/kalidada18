@@ -6,14 +6,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png">
     <source media="(prefers-color-scheme: light)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png">
-    <img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png" width="160" height="160" alt="Sujal Lamichhane AI Avatar" align="center" />
+    <img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png" width="160" height="160" alt="Sujal Lamichhane  Avatar" align="center" />
   </picture>
 </p>
 
 <br/>
 
 <h1>SUJAL LAMICHHANE</h1>
-<p><strong>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</strong></p>
+<h2>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</h2>
 
 <br/>
 
@@ -215,15 +215,17 @@ Metasploit Framework     ███████████████░░░�
 
 </div>
 
-<!-- JSON-LD Structured Data for Search Engine & AI Crawler Indexing -->
-<!--
+<!-- Structured Data Schema for Google Search & AI Engine Indexing -->
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Sujal Lamichhane",
-  "alternateName": "kalidada18",
+  "alternateName": ["kalidada18", "sujallamichhane"],
+  "url": "https://sujallamichhane.com.np",
   "image": "https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg",
   "jobTitle": "Security Operations Analyst",
+  "description": "Sujal Lamichhane is a Security Operations Analyst at CryptoGen Nepal, Certified Ethical Hacker (CEH), and Cybersecurity Researcher in Chitwan, Nepal specializing in Detection Engineering, SIEM Telemetry, SOAR Automation, and Threat Intelligence.",
   "worksFor": {
     "@type": "Organization",
     "name": "CryptoGen Nepal"
@@ -232,27 +234,39 @@ Metasploit Framework     ███████████████░░░�
     "@type": "EducationalOrganization",
     "name": "Forbes College"
   },
-  "hasCredential": "Certified Ethical Hacker (CEH)",
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "Certified Ethical Hacker (CEH)",
+    "credentialCategory": "Certification",
+    "recognizedBy": {
+      "@type": "Organization",
+      "name": "EC-Council"
+    }
+  },
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Chitwan",
     "addressCountry": "Nepal"
   },
-  "url": "https://sujallamichhane.com.np",
   "sameAs": [
     "https://github.com/kalidada18",
     "https://linkedin.com/in/sujal-lamichhane",
-    "https://threatbase.qzz.io"
+    "https://threatbase.qzz.io",
+    "https://sujallamichhane.com.np"
   ],
   "knowsAbout": [
+    "Cybersecurity",
     "Detection Engineering",
     "SIEM Operations",
+    "Wazuh SIEM",
+    "Suricata NIDS",
     "Shuffle SOAR",
-    "Wazuh",
-    "Suricata",
-    "Threat Intelligence",
-    "Ethical Hacking",
-    "CEH v13"
+    "TheHive & MISP Threat Intelligence",
+    "Ethical Hacking & Penetration Testing",
+    "Python",
+    "Go",
+    "TypeScript",
+    "Linux Kernel Security"
   ]
 }
--->
+</script>
