@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=C8F542&text=SUJAL%20LAMICHHANE&fontColor=0d0d0d&fontSize=42&fontAlignY=38&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF1744&text=SUJAL%20LAMICHHANE&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkle" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=15&duration=3000&pause=1400&color=C8F542&center=true&vCenter=true&width=750&height=30&lines=Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel+%C2%B7+Ethical+Hacking;54+OSINT+Feeds.+Millions+of+IOCs.+threatbase.qzz.io;Go+Firewall+%E2%80%94+DPI+%2B+GeoIP+%2B+XGBoost+ML.;Unified+SOC+Framework+%C2%B7+Forbes+College+Capstone." />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=15&duration=3000&pause=1400&color=FF1744&center=true&vCenter=true&width=780&height=30&lines=Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel+%C2%B7+Red+Teaming;Final+Year+Capstone%3A+Unified+SOC+Framework+%2B+Shuffle+SOAR;54+OSINT+Feeds.+Millions+of+IOCs.+threatbase.qzz.io;Go+Firewall+%E2%80%94+DPI+%2B+GeoIP+%2B+XGBoost+ML." />
 
 <br/>
 
-![](https://img.shields.io/badge/CEH%20v13-EC--Council-C8F542?style=flat-square&labelColor=111111&color=C8F542)&nbsp;
+![](https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
 ![](https://img.shields.io/badge/CryptoGen%20Nepal-Security%20Ops-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
 ![](https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
 ![](https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
-![](https://img.shields.io/badge/Status-Active%20Defense-C8F542?style=flat-square&labelColor=111111&color=C8F542)
+![](https://img.shields.io/badge/Status-Red%20Team%20%2F%20Active%20Defense-FF1744?style=flat-square&labelColor=111111&color=FF1744)
 
 </div>
 
@@ -23,9 +23,9 @@
 | key | value |
 |:----|:------|
 | `role` | Security Operations — CryptoGen Nepal |
-| `cert` | CEH v13 — EC-Council |
+| `cert` | Certified Ethical Hacker (CEH) — EC-Council |
 | `edu` | B.Sc CS · Network Technology & Cybersecurity · Forbes College |
-| `focus` | Detection Engineering · SIEM Ops · Threat Intel · Ethical Hacking |
+| `focus` | Detection Engineering · SIEM Ops · Threat Intel · Red Teaming |
 | `stack` | Python · Bash · PowerShell · Go · TypeScript · SQL |
 | `base` | Chitwan, Nepal |
 
@@ -35,8 +35,8 @@
 
 ### 🎓 Academic Research & Capstones
 
-**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)** &nbsp;·&nbsp; `🏆 Main College Project`
-> Enterprise-grade open-source SOC platform integrating Wazuh SIEM, Suricata NIDS, TheHive Incident Response, and MISP Threat Sharing. Features end-to-end event ingestion, automated log correlation, custom detection rulesets, and SOAR response playbooks.
+**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)** &nbsp;·&nbsp; `🏆 Final Year Capstone Project`
+> Enterprise-grade open-source SOC platform integrating Wazuh SIEM, Suricata NIDS, **Shuffle SOAR**, TheHive Incident Response, and MISP Threat Sharing. Features end-to-end telemetry ingestion, automated log correlation, custom alert rulesets, and workflow automation playbooks via **Shuffle SOAR** for instant incident triage and response.
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -45,12 +45,13 @@
 └─────────────────┘    └─────────────────┘    └────────┬────────┘
                                                        │
 ┌─────────────────┐    ┌─────────────────┐             │
-│ TheHive + MISP  │<───│ n8n SOAR        │<────────────┘
+│ TheHive + MISP  │<───│ Shuffle SOAR    │<────────────┘
 │ Case & Intel    │    │ Automation Engine│
 └─────────────────┘    └─────────────────┘
 ```
 
-![Status](https://img.shields.io/badge/Project-Main%20College%20Capstone-C8F542?style=flat-square&labelColor=111111&color=C8F542)&nbsp;
+![Status](https://img.shields.io/badge/Project-Final%20Year%20Capstone-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
+![SOAR](https://img.shields.io/badge/SOAR-Shuffle%20SOAR-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
 ![Stack](https://img.shields.io/badge/Stack-Wazuh%20%7C%20Suricata%20%7C%20TheHive%20%7C%20MISP-333333?style=flat-square&labelColor=111111)&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-333333?style=flat-square&labelColor=111111)
 
@@ -66,7 +67,7 @@
 └── Dispatch Layer    Automated incident alert notifications
 ```
 
-![Status](https://img.shields.io/badge/Project-Minor%20College%20Project-C8F542?style=flat-square&labelColor=111111&color=C8F542)&nbsp;
+![Status](https://img.shields.io/badge/Project-Minor%20College%20Project-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
 ![Stack](https://img.shields.io/badge/Stack-SIEM%20%7C%20Sysmon%20%7C%20Logstash%20%7C%20Snort-333333?style=flat-square&labelColor=111111)
 
 ---
@@ -84,7 +85,7 @@
 ```
 
 ![Pipeline](https://github.com/kalidada18/threatbase/actions/workflows/update-feed.yml/badge.svg)&nbsp;
-![IOCs](https://img.shields.io/badge/IOCs-Millions-C8F542?style=flat-square&labelColor=111111&color=C8F542)&nbsp;
+![IOCs](https://img.shields.io/badge/IOCs-Millions-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
 ![Feeds](https://img.shields.io/badge/Feeds-54-333333?style=flat-square&labelColor=111111)&nbsp;
 ![Live](https://img.shields.io/badge/Live-threatbase.qzz.io-333333?style=flat-square&labelColor=111111)
 
@@ -102,9 +103,9 @@
 └── Dashboard + CLI FortiGate-inspired web UI · full CLI client
 ```
 
-![Go](https://img.shields.io/badge/Go-1.21+-333333?style=flat-square&logo=go&logoColor=C8F542&labelColor=111111)&nbsp;
+![Go](https://img.shields.io/badge/Go-1.21+-333333?style=flat-square&logo=go&logoColor=FF1744&labelColor=111111)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-only-333333?style=flat-square&logo=linux&logoColor=aaa&labelColor=111111)&nbsp;
-![VT](https://img.shields.io/badge/VirusTotal-integrated-C8F542?style=flat-square&labelColor=111111&color=C8F542)
+![VT](https://img.shields.io/badge/VirusTotal-integrated-FF1744?style=flat-square&labelColor=111111&color=FF1744)
 
 ---
 
@@ -141,7 +142,7 @@
  ──────────────────────────────────────────────────────────────────────
  studying  →  Advanced Exploit Dev & Privilege Escalation       ACTIVE
  learning  →  Malware Analysis · Reverse Engineering            ACTIVE
- building  →  Unified SOC Lab — Wazuh + Splunk + n8n SOAR       ACTIVE
+ building  →  Final Year Capstone — Wazuh + Shuffle SOAR        ACTIVE
  building  →  Wazuh correlation engine → Splunk bridge           WIP
  training  →  HackTheBox · TryHackMe · PortSwigger Labs         ONGOING
 ```
@@ -165,21 +166,21 @@ nikto / sqlmap          ██████████████░░░░�
 ```
 splunk / fortisiem      █████████████████░░░  88%
 wazuh / logpoint        █████████████████░░░  85%
+shuffle soar / auto     █████████████████░░░  88%
 fortigate / palo alto   ████████████████░░░░  80%
-n8n soar / automation   ██████████████░░░░░░  72%
 snort / suricata        ███████████████░░░░░  75%
 ```
 
 **Languages & Platforms**
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C8F542)&nbsp;
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=C8F542)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=C8F542)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=C8F542)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=C8F542)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=C8F542)&nbsp;
-![Splunk](https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=C8F542)&nbsp;
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=C8F542)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF1744)&nbsp;
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=FF1744)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=FF1744)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=FF1744)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FF1744)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FF1744)&nbsp;
+![Splunk](https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=FF1744)&nbsp;
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=FF1744)
 
 <br/>
 
@@ -187,7 +188,7 @@ snort / suricata        ███████████████░░░�
 
 ```
  ┌───────────────────────────────────────────────────────────┐
- │  CEH v13 — Certified Ethical Hacker · EC-Council          │
+ │  Certified Ethical Hacker (CEH) · EC-Council              │
  │                                                           │
  │  penetration-testing  ·  recon  ·  exploitation           │
  │  vulnerability-assessment  ·  offensive-security          │
@@ -200,17 +201,17 @@ snort / suricata        ███████████████░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=C8F542&icon_color=C8F542&text_color=999999&border_color=1a1a1a&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF1744&icon_color=FF1744&text_color=999999&border_color=220005&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&theme=dark&bg_color=0d0d0d&title_color=C8F542&text_color=999999&border_color=1a1a1a&hide=html,css" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF1744&text_color=999999&border_color=220005&hide=html,css" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=C8F542&fire=C8F542&currStreakLabel=C8F542&sideLabels=aaaaaa&dates=aaaaaa&stroke=1a1a1a&sideNums=C8F542&currStreakNum=ffffff" height="165" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&stroke=220005&sideNums=FF1744&currStreakNum=ffffff" height="165" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidada18&theme=react-dark&bg_color=0d0d0d&color=C8F542&line=C8F542&point=ffffff&area=true&hide_border=false&border_color=1a1a1a&custom_title=SOC+ENGINEERING+CONTRIBUTION+GRAPH" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidada18&theme=react-dark&bg_color=0d0d0d&color=FF1744&line=FF1744&point=ffffff&area=true&hide_border=false&border_color=220005&custom_title=SOC+ENGINEERING+CONTRIBUTION+GRAPH" width="100%" alt="Activity Graph" />
 
 </div>
 
