@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF1744" width="100%" alt="Sujal Lamichhane Cybersecurity Header Bar" />
-
 <br/>
 
-<img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=300&h=300" width="150" height="150" alt="Sujal Lamichhane AI Avatar" />
+<img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320" width="160" height="160" alt="Sujal Lamichhane AI Avatar" />
 
 <br/><br/>
 
 <h1>SUJAL LAMICHHANE</h1>
-<h3>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</h3>
+<p><strong>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1400&color=ffffff&center=true&vCenter=true&width=800&height=36&lines=SOC+Analyst+at+CryptoGen+Nepal;Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel;Unified+SOC+Framework+%C2%B7+Forbes+College+Capstone" alt="Sujal Lamichhane - SOC Analyst at CryptoGen Nepal Typing Animation" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1400&color=FF1744&center=true&vCenter=true&width=800&height=36&lines=SOC+Analyst+at+CryptoGen+Nepal;Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel;Unified+SOC+Framework+%C2%B7+Forbes+College+Capstone" alt="Sujal Lamichhane - SOC Analyst at CryptoGen Nepal Typing Animation" />
 
 <br/><br/>
 
 <a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-FF1744?style=flat-square&logo=edx&logoColor=ffffff&labelColor=111111" alt="Certified Ethical Hacker CEH EC-Council - Sujal Lamichhane" /></a>&nbsp;
 <a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/CryptoGen%20Nepal-SOC%20Analyst-FF1744?style=flat-square&logo=shield&logoColor=ffffff&labelColor=111111" alt="CryptoGen Nepal SOC Analyst - Sujal Lamichhane" /></a>&nbsp;
-<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-2b040a?style=flat-square&logo=google-scholar&logoColor=ffffff&labelColor=111111" alt="Forbes College B.Sc CS Cybersecurity - Sujal Lamichhane" /></a>&nbsp;
-<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-2b040a?style=flat-square&logo=google-maps&logoColor=ffffff&labelColor=111111" alt="Cybersecurity Engineer in Chitwan Nepal - Sujal Lamichhane" /></a>
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-FF1744?style=flat-square&logo=google-scholar&logoColor=ffffff&labelColor=111111" alt="Forbes College B.Sc CS Cybersecurity - Sujal Lamichhane" /></a>&nbsp;
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-111111?style=flat-square&logo=google-maps&logoColor=ffffff&labelColor=FF1744" alt="Cybersecurity Engineer in Chitwan Nepal - Sujal Lamichhane" /></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF1744" width="100%" alt="Sujal Lamichhane Divider Bar" />
 
 </div>
 
