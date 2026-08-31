@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF1744" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF1744" width="100%" alt="Sujal Lamichhane Cybersecurity Header Bar" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=85&color=FF1744&text=SUJAL%20LAMICHHANE&fontColor=FF1744&fontSize=50&fontAlignY=50&font=Fira%20Code" width="100%" />
+<h1>SUJAL LAMICHHANE</h1>
+<h3>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1400&color=ffffff&center=true&vCenter=true&width=800&height=36&lines=SOC+Analyst+at+CryptoGen+Nepal;Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel;Unified+SOC+Framework+%C2%B7+Forbes+College+Capstone" />
-
-<br/>
-
-![](https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-FF1744?style=flat-square&logo=edx&logoColor=ffffff&labelColor=111111)&nbsp;
-![](https://img.shields.io/badge/CryptoGen%20Nepal-SOC%20Analyst-FF1744?style=flat-square&logo=shield&logoColor=ffffff&labelColor=111111)&nbsp;
-![](https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-2b040a?style=flat-square&logo=google-scholar&logoColor=ffffff&labelColor=111111)&nbsp;
-![](https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-2b040a?style=flat-square&logo=google-maps&logoColor=ffffff&labelColor=111111)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1400&color=ffffff&center=true&vCenter=true&width=800&height=36&lines=SOC+Analyst+at+CryptoGen+Nepal;Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel;Unified+SOC+Framework+%C2%B7+Forbes+College+Capstone" alt="Sujal Lamichhane - SOC Analyst at CryptoGen Nepal Typing Animation" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF1744" width="100%" />
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-FF1744?style=flat-square&logo=edx&logoColor=ffffff&labelColor=111111" alt="Certified Ethical Hacker CEH EC-Council - Sujal Lamichhane" /></a>&nbsp;
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/CryptoGen%20Nepal-SOC%20Analyst-FF1744?style=flat-square&logo=shield&logoColor=ffffff&labelColor=111111" alt="CryptoGen Nepal SOC Analyst - Sujal Lamichhane" /></a>&nbsp;
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-2b040a?style=flat-square&logo=google-scholar&logoColor=ffffff&labelColor=111111" alt="Forbes College B.Sc CS Cybersecurity - Sujal Lamichhane" /></a>&nbsp;
+<a href="https://github.com/kalidada18"><img src="https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-2b040a?style=flat-square&logo=google-maps&logoColor=ffffff&labelColor=111111" alt="Cybersecurity Engineer in Chitwan Nepal - Sujal Lamichhane" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF1744" width="100%" alt="Sujal Lamichhane Divider Bar" />
 
 </div>
 
@@ -55,11 +56,11 @@ Location     : Chitwan, Nepal
 └─────────────────────────┘      └─────────────────────────┘
 ```
 
-![Capstone Status](https://img.shields.io/badge/Status-Final%20Year%20Capstone-FF1744?style=flat-square&labelColor=111111)&nbsp;
-![SOAR](https://img.shields.io/badge/SOAR-Shuffle%20SOAR-FF1744?style=flat-square&labelColor=111111)&nbsp;
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-333333?style=flat-square&labelColor=111111)&nbsp;
-![IDS](https://img.shields.io/badge/IDS-Suricata-333333?style=flat-square&labelColor=111111)&nbsp;
-![Case](https://img.shields.io/badge/Case-TheHive%20%2B%20MISP-333333?style=flat-square&labelColor=111111)
+![Integration of Open Source Security Tools for a Unified SOC Framework Capstone](https://img.shields.io/badge/Status-Final%20Year%20Capstone-FF1744?style=flat-square&labelColor=111111)&nbsp;
+![Shuffle SOAR Security Automation Engine](https://img.shields.io/badge/SOAR-Shuffle%20SOAR-FF1744?style=flat-square&labelColor=111111)&nbsp;
+![Wazuh SIEM Log Correlation](https://img.shields.io/badge/SIEM-Wazuh-333333?style=flat-square&labelColor=111111)&nbsp;
+![Suricata Network NIDS Telemetry](https://img.shields.io/badge/IDS-Suricata-333333?style=flat-square&labelColor=111111)&nbsp;
+![TheHive Case Management and MISP Threat Intelligence](https://img.shields.io/badge/Case-TheHive%20%2B%20MISP-333333?style=flat-square&labelColor=111111)
 
 ---
 
@@ -74,9 +75,9 @@ Location     : Chitwan, Nepal
 └── 4. Response Layer    Automated incident alert dispatch
 ```
 
-![Project Status](https://img.shields.io/badge/Status-Minor%20College%20Project-FF1744?style=flat-square&labelColor=111111)&nbsp;
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%2F%20Elastic-333333?style=flat-square&labelColor=111111)&nbsp;
-![Host](https://img.shields.io/badge/Telemetry-Sysmon%20%2B%20Logstash-333333?style=flat-square&labelColor=111111)
+![Multi Layer Security Integration Based on SIEM Solutions Minor Project](https://img.shields.io/badge/Status-Minor%20College%20Project-FF1744?style=flat-square&labelColor=111111)&nbsp;
+![Splunk Elastic SIEM Dashboard](https://img.shields.io/badge/SIEM-Splunk%20%2F%20Elastic-333333?style=flat-square&labelColor=111111)&nbsp;
+![Sysmon Host Telemetry and Logstash Pipeline](https://img.shields.io/badge/Telemetry-Sysmon%20%2B%20Logstash-333333?style=flat-square&labelColor=111111)
 
 ---
 
@@ -90,10 +91,10 @@ Location     : Chitwan, Nepal
                             → Retrospective ZIP Archives & Git Mirrors
 ```
 
-![Pipeline](https://github.com/kalidada18/threatbase/actions/workflows/update-feed.yml/badge.svg)&nbsp;
-![IOCs](https://img.shields.io/badge/IOCs-Millions-FF1744?style=flat-square&labelColor=111111)&nbsp;
-![Feeds](https://img.shields.io/badge/Feeds-54%20OSINT-333333?style=flat-square&labelColor=111111)&nbsp;
-![Live Web](https://img.shields.io/badge/Live-threatbase.qzz.io-333333?style=flat-square&labelColor=111111)
+![Threatbase Automated Feed Update Pipeline Status](https://github.com/kalidada18/threatbase/actions/workflows/update-feed.yml/badge.svg)&nbsp;
+![Millions of IOC Threat Intelligence Blocklists](https://img.shields.io/badge/IOCs-Millions-FF1744?style=flat-square&labelColor=111111)&nbsp;
+![54 OSINT Threat Intelligence Feeds](https://img.shields.io/badge/Feeds-54%20OSINT-333333?style=flat-square&labelColor=111111)&nbsp;
+![Threatbase Live Dashboard - threatbase.qzz.io](https://img.shields.io/badge/Live-threatbase.qzz.io-333333?style=flat-square&labelColor=111111)
 
 ---
 
@@ -101,9 +102,9 @@ Location     : Chitwan, Nepal
 **[KaliWall](https://github.com/kalidada18/KaliWall)** &nbsp;·&nbsp; `Go · XGBoost · gopacket · VirusTotal`
 > Linux firewall engine integrating real-time Deep Packet Inspection (DPI), GeoIP filtering, VirusTotal threat intelligence, and XGBoost machine learning anomaly scoring with a FortiGate-inspired UI.
 
-![Go Engine](https://img.shields.io/badge/Engine-Go%201.21%2B-333333?style=flat-square&logo=go&logoColor=FF1744&labelColor=111111)&nbsp;
-![Platform](https://img.shields.io/badge/Platform-Linux%20Kernel-333333?style=flat-square&logo=linux&logoColor=ffffff&labelColor=111111)&nbsp;
-![ML Threat](https://img.shields.io/badge/ML-XGBoost%20Anomaly-FF1744?style=flat-square&labelColor=111111)
+![Go Language Linux Firewall Engine](https://img.shields.io/badge/Engine-Go%201.21%2B-333333?style=flat-square&logo=go&logoColor=FF1744&labelColor=111111)&nbsp;
+![Linux Kernel Firewall Architecture](https://img.shields.io/badge/Platform-Linux%20Kernel-333333?style=flat-square&logo=linux&logoColor=ffffff&labelColor=111111)&nbsp;
+![XGBoost Anomaly Detection Machine Learning Security](https://img.shields.io/badge/ML-XGBoost%20Anomaly-FF1744?style=flat-square&labelColor=111111)
 
 <br/>
 
@@ -124,7 +125,7 @@ Location     : Chitwan, Nepal
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kalidada18/kalidada18/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Sujal Lamichhane GitHub Contribution Activity Grid Snake Matrix Animation" src="https://raw.githubusercontent.com/kalidada18/kalidada18/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -150,14 +151,14 @@ Metasploit Framework     ███████████████░░░�
 
 **Core Languages & Technologies**
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF1744)&nbsp;
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=FF1744)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=FF1744)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=FF1744)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FF1744)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FF1744)&nbsp;
-![Splunk](https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=FF1744)&nbsp;
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=FF1744)
+![Python Programming Language](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF1744)&nbsp;
+![Go Golang Development](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=FF1744)&nbsp;
+![TypeScript Security Tooling](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=FF1744)&nbsp;
+![Bash Shell Scripting](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=FF1744)&nbsp;
+![Linux Security Operations](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FF1744)&nbsp;
+![Docker Infrastructure Containerization](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FF1744)&nbsp;
+![Splunk SIEM Enterprise Security](https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=FF1744)&nbsp;
+![React Dashboard Web Frontend](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=FF1744)
 
 <br/>
 
@@ -165,17 +166,17 @@ Metasploit Framework     ███████████████░░░�
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=kalidada18" width="100%" alt="GitHub Stats" />
+<img src="https://ghstats.dev/api/card?username=kalidada18" width="100%" alt="Sujal Lamichhane GitHub Statistics Profile Card" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="170" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="170" alt="Sujal Lamichhane GitHub Contribution Streak Statistics" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalidada18&theme=2077" height="160" alt="GitHub Profile Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalidada18&theme=2077" height="160" alt="Sujal Lamichhane GitHub Profile Summary Stats Card" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalidada18&theme=2077" height="160" alt="Languages Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalidada18&theme=2077" height="160" alt="Sujal Lamichhane Top Languages Repositories Chart" />
 
 <br/><br/>
 
@@ -192,16 +193,57 @@ Metasploit Framework     ███████████████░░░�
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=111111)](https://sujallamichhane.com.np)
+[![Sujal Lamichhane Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=111111)](https://sujallamichhane.com.np)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111)](https://linkedin.com/in/sujal-lamichhane)
+[![Sujal Lamichhane LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111)](https://linkedin.com/in/sujal-lamichhane)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111)](mailto:lamichhanesujal18@gmail.com)
+[![Sujal Lamichhane Email Contact](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111)](mailto:lamichhanesujal18@gmail.com)
 &nbsp;
-[![Threatbase](https://img.shields.io/badge/Threatbase-threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=111111)](https://threatbase.qzz.io)
+[![Threatbase OSINT Platform](https://img.shields.io/badge/Threatbase-threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=111111)](https://threatbase.qzz.io)
 
 <br/>
 
 <sub><code>hack ethically. defend relentlessly.</code> &nbsp;·&nbsp; sujal lamichhane · 2026</sub>
 
 </div>
+
+<!-- JSON-LD Structured Data for Search Engine & AI Crawler Indexing -->
+<!--
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sujal Lamichhane",
+  "alternateName": "kalidada18",
+  "jobTitle": "Security Operations Analyst",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "CryptoGen Nepal"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Forbes College"
+  },
+  "hasCredential": "Certified Ethical Hacker (CEH)",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Chitwan",
+    "addressCountry": "Nepal"
+  },
+  "url": "https://sujallamichhane.com.np",
+  "sameAs": [
+    "https://github.com/kalidada18",
+    "https://linkedin.com/in/sujal-lamichhane",
+    "https://threatbase.qzz.io"
+  ],
+  "knowsAbout": [
+    "Detection Engineering",
+    "SIEM Operations",
+    "Shuffle SOAR",
+    "Wazuh",
+    "Suricata",
+    "Threat Intelligence",
+    "Ethical Hacking",
+    "CEH v13"
+  ]
+}
+-->
