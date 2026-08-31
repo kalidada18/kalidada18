@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #FF1744;" alt="Sujal Lamichhane AI Avatar" />
+
+<br/><br/>
+
 <h1>SUJAL LAMICHHANE</h1>
 <h3>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</h3>
 
@@ -214,6 +218,7 @@ Metasploit Framework     ███████████████░░░�
   "@type": "Person",
   "name": "Sujal Lamichhane",
   "alternateName": "kalidada18",
+  "image": "https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg",
   "jobTitle": "Security Operations Analyst",
   "worksFor": {
     "@type": "Organization",
