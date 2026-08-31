@@ -207,17 +207,17 @@ snort / suricata        ███████████████░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF1744&icon_color=FF1744&text_color=999999&border_color=220005&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF1744&icon_color=FF1744&text_color=aaaaaa&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF1744&text_color=999999&border_color=220005&hide=html,css" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF1744&text_color=aaaaaa&hide_border=true&hide=html,css" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&stroke=220005&sideNums=FF1744&currStreakNum=ffffff" height="165" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="165" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidada18&theme=react-dark&bg_color=0d0d0d&color=FF1744&line=FF1744&point=ffffff&area=true&hide_border=false&border_color=220005&custom_title=SOC+ENGINEERING+CONTRIBUTION+GRAPH" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidada18&theme=react-dark&bg_color=0d0d0d&color=FF1744&line=FF1744&point=ffffff&area=true&hide_border=true&custom_title=SOC+ENGINEERING+CONTRIBUTION+GRAPH" width="100%" alt="Activity Graph" />
 
 </div>
 
