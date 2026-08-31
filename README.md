@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF1744&text=SUJAL%20LAMICHHANE&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF1744" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=15&duration=3000&pause=1400&color=FF1744&center=true&vCenter=true&width=780&height=30&lines=Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel+%C2%B7+Red+Teaming;Final+Year+Capstone%3A+Unified+SOC+Framework+%2B+Shuffle+SOAR;54+OSINT+Feeds.+Millions+of+IOCs.+threatbase.qzz.io;Go+Firewall+%E2%80%94+DPI+%2B+GeoIP+%2B+XGBoost+ML." />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=FF1744&text=SUJAL%20LAMICHHANE&fontColor=FF1744&fontSize=48&fontAlignY=50&font=Fira%20Code" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1200&color=e0e0e0&center=true&vCenter=true&width=800&height=32&lines=Detection+Engineering+%C2%B7+SIEM+Ops+%C2%B7+Threat+Intel+%C2%B7+Red+Teaming;Final+Year+Capstone%3A+Unified+SOC+Framework+%2B+Shuffle+SOAR;54+OSINT+Feeds.+Millions+of+IOCs.+threatbase.qzz.io;Go+Firewall+%E2%80%94+DPI+%2B+GeoIP+%2B+XGBoost+ML." />
 
 <br/>
 
 ![](https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-FF1744?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
-![](https://img.shields.io/badge/CryptoGen%20Nepal-Security%20Ops-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
-![](https://img.shields.io/badge/Forbes%20College-B.Sc%20CS%20Cybersecurity-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
-![](https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-333333?style=flat-square&labelColor=1a1a1a&color=333333)&nbsp;
-![](https://img.shields.io/badge/Status-Red%20Team%20%2F%20Active%20Defense-FF1744?style=flat-square&labelColor=111111&color=FF1744)
+![](https://img.shields.io/badge/CryptoGen%20Nepal-Security%20Ops-2b040a?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
+![](https://img.shields.io/badge/Forbes%20College-Cybersecurity-2b040a?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
+![](https://img.shields.io/badge/Location-Chitwan%2C%20Nepal-2b040a?style=flat-square&labelColor=111111&color=FF1744)&nbsp;
+![](https://img.shields.io/badge/Status-Active%20Defense-FF1744?style=flat-square&labelColor=111111&color=FF1744)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF1744" width="100%" />
 
 </div>
 
