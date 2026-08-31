@@ -2,9 +2,15 @@
 
 <br/>
 
-<img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320" width="160" height="160" alt="Sujal Lamichhane AI Avatar" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png">
+    <source media="(prefers-color-scheme: light)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png">
+    <img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png" width="160" height="160" alt="Sujal Lamichhane AI Avatar" align="center" />
+  </picture>
+</p>
 
-<br/><br/>
+<br/>
 
 <h1>SUJAL LAMICHHANE</h1>
 <p><strong>Security Operations Analyst &nbsp;·&nbsp; Certified Ethical Hacker (CEH) &nbsp;·&nbsp; Chitwan, Nepal</strong></p>
