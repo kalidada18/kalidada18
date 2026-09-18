@@ -14,7 +14,7 @@
 
 <h1>SUJAL LAMICHHANE</h1>
 
-<h3>Cybersecurity Professional &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; CEH-Certified</h3>
+<h3>Cybersecurity Professional &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; Certified Ethical Hacker</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%24+whoami+%E2%86%92+Security+Operations+Analyst;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;OSINT+%C2%B7+Malware+Analysis+%C2%B7+Detection+Engineering+%C2%B7+SOAR" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
 
