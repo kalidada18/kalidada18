@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://sujallamichhane.com.np">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png&border=8px-solid_FF1744&drop=0,0,35,rgba(255,23,68,0.55)">
-      <source media="(prefers-color-scheme: light)" srcset="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png&border=8px-solid_FF1744&drop=0,0,35,rgba(255,23,68,0.55)">
-      <img src="https://wsrv.nl/?url=https://sujallamichhane.com.np/sujal-uploads/sujallamichhane-ai.jpeg&mask=circle&w=320&h=320&output=png&border=8px-solid_FF1744&drop=0,0,35,rgba(255,23,68,0.55)" width="170" height="170" alt="Sujal Lamichhane - Cybersecurity Professional Avatar" align="center" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkalidada18%2Fkalidada18%2Fmain%2Fassets%2Favatar.jpeg&mask=circle&w=340&h=340&output=png">
+      <source media="(prefers-color-scheme: light)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkalidada18%2Fkalidada18%2Fmain%2Fassets%2Favatar.jpeg&mask=circle&w=340&h=340&output=png">
+      <img src="assets/avatar.jpeg" width="170" alt="Sujal Lamichhane - Cybersecurity Professional Avatar" align="center" />
     </picture>
   </a>
 </p>
@@ -58,46 +58,73 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 ---
 
-<!-- ═══════════════════ PINNED ARSENAL (LIVE CARDS) ═══════════════════ -->
+<!-- ═══════════════ FIELD ARSENAL (LIVE REPO DOSSIERS) ═══════════════ -->
 
-<h2>⚔️ Weaponized Projects <sub>(live cards · auto-synced)</sub></h2>
+<h2>⚔️ Field Arsenal <sub>(live repo telemetry · auto-synced)</sub></h2>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Unified SOC Framework](https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)
+#### 🏆 Unified Open-Source SOC Framework
+**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**
+
+![Stars](https://img.shields.io/github/stars/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=FF1744&labelColor=111111)&nbsp;
+![Forks](https://img.shields.io/github/forks/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=333333&labelColor=111111)&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=39d353&labelColor=111111)
+
+> Final-year capstone: enterprise-grade SOC integrating **Wazuh SIEM**, **Suricata NIDS**, **Shuffle SOAR**, **TheHive**, and **MISP** for real-time detection, correlation, and automated triage.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Threatbase](https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=threatbase&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/kalidada18/threatbase)
+#### 🌐 Threatbase — OSINT Platform
+**[threatbase](https://github.com/kalidada18/threatbase)**
+
+![Stars](https://img.shields.io/github/stars/kalidada18/threatbase?style=flat-square&logo=github&color=FF1744&labelColor=111111)&nbsp;
+![Forks](https://img.shields.io/github/forks/kalidada18/threatbase?style=flat-square&logo=github&color=333333&labelColor=111111)&nbsp;
+![Feeds](https://img.shields.io/badge/Feeds-54-333333?style=flat-square&labelColor=111111)&nbsp;
+![Pipeline](https://github.com/kalidada18/threatbase/actions/workflows/update-feed.yml/badge.svg)&nbsp;
+![Uptime](https://img.shields.io/website?style=flat-square&up_color=39d353&upMessage=LIVE&down_color=333333&downMessage=DOWN&labelColor=111111&url=https://threatbase.qzz.io)
+
+> `TypeScript · Python · React · Cloudflare` — high-throughput OSINT aggregation consolidating **54 threat feeds** into deduplicated IP/CIDR/Domain/URL/SHA-256 blocklists.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![KaliWall](https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=KaliWall&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/kalidada18/KaliWall)
+#### 🛡️ KaliWall — ML Network Defense
+**[KaliWall](https://github.com/kalidada18/KaliWall)**
+
+![Stars](https://img.shields.io/github/stars/kalidada18/KaliWall?style=flat-square&logo=github&color=FF1744&labelColor=111111)&nbsp;
+![Forks](https://img.shields.io/github/forks/kalidada18/KaliWall?style=flat-square&logo=github&color=333333&labelColor=111111)&nbsp;
+![Go](https://img.shields.io/badge/Go-1.21%2B-333333?style=flat-square&logo=go&logoColor=FF1744&labelColor=111111)
+
+> `Go · XGBoost · gopacket · VirusTotal` — Linux firewall with real-time DPI, GeoIP filtering, VT threat intel, and XGBoost anomaly scoring behind a FortiGate-inspired UI.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Multi-Layer SIEM](https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=Multi-Layer-Security-Integration-Based-on-SIEM-Solutions&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)
+#### ⚡ Multi-Layer SIEM Integration
+**[Multi-Layer-Security-Integration-Based-on-SIEM-Solutions](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)**
+
+![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=111111)&nbsp;
+![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%2F%20Elastic-333333?style=flat-square&labelColor=111111)
+
+> Defense-in-depth architecture: centralized SIEM monitoring, Sysmon process tracing, Snort/Suricata perimeter defense, and threshold alerting pipelines.
 
 </td>
 </tr>
 </table>
 
-### 🏆 Capstone Deep-Dive — Unified Open-Source SOC Framework
-
-> **Wazuh SIEM · Suricata NIDS · Shuffle SOAR · TheHive · MISP** — enterprise-grade detection, correlation, and automated incident triage, end to end.
+### 🏆 Capstone Deep-Dive — SOC Kill Chain
 
 ```
 ┌─────────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
 │ Endpoint / Network      │────> │ Suricata NIDS &         │────> │ Wazuh Centralized       │
 │ Telemetry Collectors    │      │ Wazuh Endpoint Agents   │      │ SIEM & Indexer Engine   │
-└─────────────────────────┘      └─────────────────────────┘      └────────────┬────────────┘
+└─────────────────────────┘      └─────────────────────────┘      └────────────────────────┘
                                                                                │
 ┌─────────────────────────┐      ┌─────────────────────────┐                   │
 │ TheHive Incident Cases  │ <─── │ Shuffle SOAR            │ <─────────────────┘
@@ -105,23 +132,24 @@ $ ssh sujal@kalidada18.dev -p 2222
 └─────────────────────────┘      └─────────────────────────┘
 ```
 
-### 🛡️ KaliWall — ML-Powered Network Defense
-
-> `Go · XGBoost · gopacket · VirusTotal` — Linux firewall with real-time DPI, GeoIP filtering, VT threat intel, and XGBoost anomaly scoring behind a FortiGate-inspired UI.
-
-### 🌐 Threatbase — OSINT Aggregation Platform
-
-> `TypeScript · Python · React · Cloudflare` — 54 threat feeds → deduplicated IP/CIDR/Domain/URL/SHA-256 blocklists, live dashboard, retro archives & git mirrors.
-
 ```
-54 Feeds → Fetch & Classify → Raw IOC Blocklists (IP/Domain/Hash)
-                            → Live Web Dashboard (threatbase.qzz.io)
-                            → Retrospective ZIP Archives & Git Mirrors
+├── 1. Perimeter Layer   Network Firewall + Snort/Suricata IDS      ← Multi-Layer SIEM
+├── 2. Host Layer        Sysmon telemetry + Logstash pipeline
+├── 3. Analytics Layer   SIEM dashboards & cross-log correlation
+└── 4. Response Layer    Automated incident alert dispatch
 ```
+
+### 🌐 Threatbase Growth Signal
+
+<p align="center">
+  <a href="https://star-history.com/#kalidada18/threatbase&Date">
+    <img src="https://api.star-history.com/svg?repos=kalidada18/threatbase&type=Date" width="600" alt="Threatbase star history growth chart" />
+  </a>
+</p>
 
 ---
 
-<!-- ════════════════════ RESEARCH VAULT (TABLE) ════════════════════ -->
+<!-- ════════════════════════ RESEARCH VAULT ════════════════════════ -->
 
 <h2>🔬 Research Vault</h2>
 
@@ -158,7 +186,7 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FF1744)&nbsp;
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticcloud&logoColor=ffffff)&nbsp;
-![Wazuh](https://img.shields.io/badge/Wazuh-00f58a?style=flat-square&logo=waze&logoColor=003a2a)&nbsp;
+![Wazuh](https://img.shields.io/badge/Wazuh-00f58a?style=flat-square&labelColor=111111&logoColor=00f58a)&nbsp;
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF1744?style=flat-square&labelColor=111111)&nbsp;
 ![TheHive](https://img.shields.io/badge/TheHive-F7A41D?style=flat-square&labelColor=111111)&nbsp;
 ![MISP](https://img.shields.io/badge/MISP-e74343?style=flat-square&labelColor=111111)&nbsp;
@@ -189,23 +217,23 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kalidada18&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&hide_border=true" alt="GitHub Profile Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalidada18&theme=github_dark" width="100%" alt="GitHub profile contribution summary banner" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&count_private=true&hide_rank=true&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" height="180" alt="GitHub Stats Card" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="170" alt="GitHub contribution streak statistics" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&title_color=FF1744&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" height="180" alt="Top Languages Card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalidada18&theme=dracula" height="170" alt="GitHub profile summary stats card" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalidada18&theme=dracula" height="170" alt="Top repositories per language chart" />
 
 <br/><br/>
 
-<a href="https://github.com/kalidada18/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidada18&bg_color=0d1117&color=c9d1d9&line=FF1744&point=FF1744&area=true&area_color=FF1744&hide_border=true&graph_title=COMMIT%20SIGNAL%20TRACE" width="100%" alt="Commit signal activity graph" />
-</a>
+<img src="https://ghchart.rshah.org/FF1744/kalidada18" width="100%" alt="Yearly contribution heatmap in crimson" />
 
 <br/>
 
-<sub>commit signal trace · updates on every push</sub>
+<sub>ghchart · full-year contribution heatmap</sub>
 
 <br/><br/>
 
