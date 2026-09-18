@@ -217,15 +217,14 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalidada18&theme=github_dark" width="100%" alt="GitHub profile contribution summary banner" />
+![Followers](https://img.shields.io/github/followers/kalidada18?style=for-the-badge&logo=github&labelColor=111111&color=FF1744)&nbsp;
+![Stars Earned](https://img.shields.io/github/stars/kalidada18?style=for-the-badge&logo=github&labelColor=111111&color=FF1744)&nbsp;
+![Repositories](https://img.shields.io/github/repos/kalidada18?style=for-the-badge&logo=github&labelColor=111111&color=FF1744)&nbsp;
+![Threatbase Pipeline](https://github.com/kalidada18/threatbase/actions/workflows/update-feed.yml/badge.svg?style=for-the-badge)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="170" alt="GitHub contribution streak statistics" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalidada18&theme=dracula" height="170" alt="GitHub profile summary stats card" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalidada18&theme=dracula" height="170" alt="Top repositories per language chart" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="180" alt="GitHub contribution streak statistics" />
 
 <br/><br/>
 
