@@ -2,6 +2,10 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
+<img src="assets/hero-banner.svg" width="100%" alt="Animated SOC console: live terminal typing sequence, packet flow streams, and rotating threat-radar sweep" />
+
+<br/>
+
 <p align="center">
   <a href="https://sujallamichhane.com.np">
     <picture>
@@ -56,7 +60,7 @@ $ ssh sujal@kalidada18.dev -p 2222
   ▸ Penetration Testing               ▸ Deception Tech & Honeypot Telemetry
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════ FIELD ARSENAL (LIVE REPO DOSSIERS) ═══════════════ -->
 
@@ -147,7 +151,7 @@ $ ssh sujal@kalidada18.dev -p 2222
   </a>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ════════════════════════ RESEARCH VAULT ════════════════════════ -->
 
@@ -163,7 +167,7 @@ $ ssh sujal@kalidada18.dev -p 2222
 | `AVAIL` | **[dos-attack](https://github.com/kalidada18/dos-attack)** | `Python` | Volumetric & protocol resilience testing |
 | `MiTM` | **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** | `Python` | ARP poisoning & rogue DNS simulation |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ══════════════════ ARMORY (ANIMATED ICONS) ══════════════════ -->
 
@@ -213,6 +217,8 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <h2>📈 Combat Record <sub>(live telemetry)</sub></h2>
 
 <div align="center">
@@ -225,14 +231,6 @@ $ ssh sujal@kalidada18.dev -p 2222
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=aaaaaa&dates=aaaaaa&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="180" alt="GitHub contribution streak statistics" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/FF1744/kalidada18" width="100%" alt="Yearly contribution heatmap in crimson" />
-
-<br/>
-
-<sub>ghchart · full-year contribution heatmap</sub>
 
 <br/><br/>
 
@@ -252,6 +250,8 @@ $ ssh sujal@kalidada18.dev -p 2222
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ══════════════════════ CONTACT UPLINK ══════════════════════ -->
 
