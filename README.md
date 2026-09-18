@@ -2,10 +2,6 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
-<img src="assets/hero-banner.svg" width="100%" alt="Animated SOC console: live terminal typing sequence, packet flow streams, and rotating threat-radar sweep" />
-
-<br/>
-
 <p align="center">
   <a href="https://sujallamichhane.com.np">
     <picture>
@@ -124,17 +120,9 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 ### 🏆 Capstone Deep-Dive — SOC Kill Chain
 
-```
-┌─────────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
-│ Endpoint / Network      │────> │ Suricata NIDS &         │────> │ Wazuh Centralized       │
-│ Telemetry Collectors    │      │ Wazuh Endpoint Agents   │      │ SIEM & Indexer Engine   │
-└─────────────────────────┘      └─────────────────────────┘      └────────────────────────┘
-                                                                               │
-┌─────────────────────────┐      ┌─────────────────────────┐                   │
-│ TheHive Incident Cases  │ <─── │ Shuffle SOAR            │ <─────────────────┘
-│ & MISP Threat Intel     │      │ Automation Engine       │   Triggered Alerts
-└─────────────────────────┘      └─────────────────────────┘
-```
+<img src="assets/soc-pipeline.svg" width="100%" alt="Animated SOC kill chain: telemetry collectors feed Suricata NIDS and Wazuh agents, events correlate in the Wazuh SIEM which pulses triggered alerts into Shuffle SOAR, and auto-triage writes TheHive cases with MISP threat intel" />
+
+<sub><b>▶ live diagram</b> — animated detection-to-response data flow, rendered from the capstone architecture</sub>
 
 ```
 ├── 1. Perimeter Layer   Network Firewall + Snort/Suricata IDS      ← Multi-Layer SIEM
@@ -143,7 +131,9 @@ $ ssh sujal@kalidada18.dev -p 2222
 └── 4. Response Layer    Automated incident alert dispatch
 ```
 
-### 🌐 Threatbase Growth Signal
+### 🌐 Threatbase — Pipeline & Growth Signal
+
+<img src="assets/ioc-stream.svg" width="100%" alt="Animated Threatbase pipeline: 54 OSINT feed chips converge through intake curves into a pulsing fetch, dedupe and classify engine, fanning out to IOC blocklists, the live dashboard, and retrospective archives" />
 
 <p align="center">
   <a href="https://star-history.com/#kalidada18/threatbase&Date">
@@ -214,6 +204,25 @@ $ ssh sujal@kalidada18.dev -p 2222
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=ffffff)
 
 </details>
+
+<br/>
+
+<h3>🎯 Field Proficiency Matrix</h3>
+
+```
+SOC & DEFENSIVE ENGINEERING
+Splunk / FortiSIEM        █████████████████░░  88%
+Wazuh / Elastic SIEM      █████████████████░░  88%
+Shuffle SOAR Automation   █████████████████░░  88%
+Suricata / Snort NIDS     ███████████████░░░░  78%
+FortiGate / Palo Alto     ████████████████░░░  80%
+
+OFFENSIVE SECURITY & PENETRATION TESTING
+Nmap / Masscan            ██████████████████░  90%
+Burp Suite Professional   ████████████████░░░  80%
+Wireshark / Packet DPI    █████████████████░░  85%
+Metasploit Framework      ███████████████░░░░  75%
+```
 
 <br/>
 

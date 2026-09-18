@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Animated Unified SOC Framework architecture: telemetry flows through Suricata and Wazuh agents into the Wazuh SIEM, which triggers Shuffle SOAR auto-triage into TheHive cases and MISP threat intelligence">
+  <defs>
+    <pattern id="gridSoc" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#141821" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" fill="#0a0a0f"/>
+  <rect width="1200" height="380" fill="url(#gridSoc)"/>
+
+  <text x="600" y="34" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#6b7280" letter-spacing="6">UNIFIED&#160;SOC&#160;//&#160;DETECTION&#8211;RESPONSE&#160;LOOP</text>
+
+  <!-- ═══ connectors (drawn first, boxes on top) ═══ -->
+  <g stroke="#2a3450" stroke-width="2" fill="none" stroke-dasharray="7 9">
+    <path d="M320 132 H460">
+      <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M740 132 H880">
+      <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1020 176 V256">
+      <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="1.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M880 298 H740">
+      <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="1.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- traveling packets -->
+  <circle r="4.5" fill="#FF1744">
+    <animateMotion dur="1.8s" repeatCount="indefinite" path="M320 132 H460"/>
+  </circle>
+  <circle r="4.5" fill="#FF1744">
+    <animateMotion dur="1.8s" begin="0.4s" repeatCount="indefinite" path="M740 132 H880"/>
+  </circle>
+  <circle r="4.5" fill="#f7a41d">
+    <animateMotion dur="1.4s" begin="0.2s" repeatCount="indefinite" path="M1020 176 V256"/>
+  </circle>
+  <circle r="4.5" fill="#39d353">
+    <animateMotion dur="1.4s" begin="0.6s" repeatCount="indefinite" path="M880 298 H740"/>
+  </circle>
+
+  <!-- arrow heads -->
+  <g fill="#3d4a6b">
+    <polygon points="460,126 472,132 460,138"/>
+    <polygon points="880,126 892,132 880,138"/>
+    <polygon points="1014,256 1020,268 1026,256"/>
+    <polygon points="740,292 728,298 740,304"/>
+  </g>
+
+  <!-- link labels -->
+  <text x="390" y="120" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#5b6577">telemetry</text>
+  <text x="810" y="120" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#5b6577">events</text>
+  <text x="1052" y="222" font-family="'Courier New',monospace" font-size="11" fill="#f7a41d">triggered alerts</text>
+  <text x="810" y="286" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#39d353">auto-triage</text>
+
+  <!-- ═══ node: SIEM pulse ring ═══ -->
+  <circle cx="1020" cy="132" r="30" fill="none" stroke="#FF1744" stroke-width="2">
+    <animate attributeName="r" values="30;90" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ═══ boxes ═══ -->
+  <g font-family="'Courier New',Consolas,monospace">
+    <!-- B1 telemetry -->
+    <rect x="40" y="90" width="280" height="84" rx="10" fill="#0e1016" stroke="#262b38" stroke-width="1.5"/>
+    <rect x="40" y="90" width="6" height="84" rx="3" fill="#39d353"/>
+    <text x="180" y="126" text-anchor="middle" font-size="15" fill="#e6edf3" font-weight="bold">Endpoint / Network</text>
+    <text x="180" y="150" text-anchor="middle" font-size="13" fill="#8b949e">Telemetry Collectors</text>
+
+    <!-- B2 detection -->
+    <rect x="460" y="90" width="280" height="84" rx="10" fill="#0e1016" stroke="#262b38" stroke-width="1.5"/>
+    <rect x="460" y="90" width="6" height="84" rx="3" fill="#FF1744"/>
+    <text x="600" y="126" text-anchor="middle" font-size="15" fill="#e6edf3" font-weight="bold">Suricata NIDS +</text>
+    <text x="600" y="150" text-anchor="middle" font-size="13" fill="#8b949e">Wazuh Endpoint Agents</text>
+
+    <!-- B3 SIEM -->
+    <rect x="880" y="90" width="280" height="84" rx="10" fill="#12080c" stroke="#FF1744" stroke-width="1.5"/>
+    <text x="1020" y="126" text-anchor="middle" font-size="15" fill="#FF1744" font-weight="bold">Wazuh Centralized</text>
+    <text x="1020" y="150" text-anchor="middle" font-size="13" fill="#8b949e">SIEM &amp; Indexer Engine</text>
+
+    <!-- B4 SOAR -->
+    <rect x="880" y="256" width="280" height="84" rx="10" fill="#14100a" stroke="#f7a41d" stroke-width="1.5"/>
+    <text x="1020" y="292" text-anchor="middle" font-size="15" fill="#f7a41d" font-weight="bold">Shuffle SOAR</text>
+    <text x="1020" y="316" text-anchor="middle" font-size="13" fill="#8b949e">Automation Engine</text>
+
+    <!-- B5 case mgmt -->
+    <rect x="460" y="256" width="280" height="84" rx="10" fill="#0a120c" stroke="#39d353" stroke-width="1.5"/>
+    <text x="600" y="292" text-anchor="middle" font-size="15" fill="#39d353" font-weight="bold">TheHive Incident Cases</text>
+    <text x="600" y="316" text-anchor="middle" font-size="13" fill="#8b949e">&amp; MISP Threat Intel</text>
+  </g>
+
+  <!-- status line -->
+  <text x="600" y="366" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#39d353" opacity="0.8">
+    &#9679;&#160;PIPELINE&#160;ARMED&#160;·&#160;REAL-TIME&#160;CORRELATION&#160;·&#160;AUTOMATED&#160;TRIAGE
+    <animate attributeName="opacity" values="0.8;0.35;0.8" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
