@@ -25,6 +25,7 @@
 
 ![Threatbase status](https://img.shields.io/website?style=flat-square&up_color=39d353&upMessage=threatbase%20LIVE&down_color=3F3F46&downMessage=threatbase%20DOWN&labelColor=18181B&url=https://threatbase.qzz.io)
 ![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-3F3F46?style=flat-square&labelColor=18181B)
+![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)
 
 <br/>
 
@@ -46,8 +47,9 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 > I design, break, and harden security systems. Certified Ethical Hacker building
 > production-grade detection pipelines, open-source SOC infrastructure, and an OSINT
-> platform that processes millions of IOCs. B.Sc Computer Science, specializing in
-> Network Technology and Cybersecurity.
+> platform that processes millions of IOCs.
+
+<sub><code>B.Sc Computer Science - Network Technology and Cybersecurity</code></sub>
 
 | Core disciplines | Research interests |
 |:-----------------|:-------------------|
@@ -66,6 +68,7 @@ $ ssh sujal@kalidada18.dev -p 2222
 ![Forks](https://img.shields.io/github/forks/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=3F3F46&labelColor=18181B)&nbsp;
 ![Last commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=9ca3af&labelColor=18181B)
 
+`Wazuh / Suricata / Shuffle / TheHive / MISP`
 An enterprise-grade SOC built entirely from open source: Wazuh SIEM, Suricata NIDS,
 Shuffle SOAR, TheHive, and MISP wired into one detection, correlation, and automated
 triage pipeline.
@@ -133,6 +136,7 @@ blocklists with live dashboarding and retrospective archives.
 ![Stars](https://img.shields.io/github/stars/kalidada18/KaliWall?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
 ![Go](https://img.shields.io/badge/Go-1.21%2B-3F3F46?style=flat-square&logo=go&logoColor=FF1744&labelColor=18181B)
 
+`Go / Linux / XGBoost`
 A Linux firewall with real-time deep packet inspection, GeoIP filtering, VirusTotal
 intel lookups, and XGBoost anomaly scoring behind a FortiGate-inspired console.
 
@@ -144,6 +148,8 @@ intel lookups, and XGBoost anomaly scoring behind a FortiGate-inspired console.
 
 ![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
 ![SIEM](https://img.shields.io/badge/Splunk%20%2F%20Elastic-3F3F46?style=flat-square&labelColor=18181B)
+
+`Splunk / Elastic / Sysmon / Logstash`
 
 ```
 ├── Perimeter    firewall + Snort/Suricata IDS
@@ -163,6 +169,8 @@ intel lookups, and XGBoost anomaly scoring behind a FortiGate-inspired console.
 | Deception telemetry and attacker profiling | **[honeypot-java](https://github.com/kalidada18/honeypot-java)** | `Java` |
 | Volumetric and protocol resilience testing | **[dos-attack](https://github.com/kalidada18/dos-attack)** | `Python` |
 | ARP poisoning and rogue DNS simulation | **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** | `Python` |
+
+<sub>Research builds are published for defensive study, isolated lab environments, and authorized testing only.</sub>
 
 ## Tooling
 
@@ -259,7 +267,8 @@ Metasploit Framework      ███████████████░░░
 ```
 
 [![Email](https://img.shields.io/badge/lamichhanesujal18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)&nbsp;
-[![Threatbase](https://img.shields.io/badge/threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)
+[![Threatbase](https://img.shields.io/badge/threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)&nbsp;
+[![Portfolio](https://img.shields.io/badge/sujallamichhane.com.np-18181B?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=3F3F46)](https://sujallamichhane.com.np)
 
 <br/>
 
