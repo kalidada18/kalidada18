@@ -269,7 +269,7 @@ OSINT & Intelligence Fusion     ████████████████
 
 ![Followers](https://img.shields.io/github/followers/kalidada18?style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
 ![Stars earned](https://img.shields.io/github/stars/kalidada18?style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
-![Repositories](https://img.shields.io/github/repos/kalidada18?style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
 ![OSINT feeds](https://img.shields.io/badge/OSINT%20feeds-54%20active-3F3F46?style=flat-square&labelColor=18181B)
 
 <br/><br/>
