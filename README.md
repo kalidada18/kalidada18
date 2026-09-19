@@ -122,8 +122,7 @@ scope: isolated lab, authorized testing only
 <sub><code>TypeScript / Python / React / Cloudflare</code></sub>
 
 ![Stars](https://img.shields.io/github/stars/kalidada18/threatbase?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![Feed pipeline](https://img.shields.io/github/actions/workflow/status/kalidada18/threatbase/update-feed.yml?style=flat-square&label=feed%20pipeline&labelColor=18181B)&nbsp;
-![Uptime](https://img.shields.io/website?style=flat-square&up_color=39d353&up_message=LIVE&down_color=3F3F46&down_message=DOWN&label=threatbase&labelColor=18181B&url=https://threatbase.qzz.io)
+![Feed pipeline](https://img.shields.io/github/actions/workflow/status/kalidada18/threatbase/update-feed.yml?style=flat-square&label=feed%20pipeline&labelColor=18181B)
 
 > CI-scheduled ingestion polls **54 threat feeds**, deduplicates across
 > sources, and publishes versioned IP, CIDR, domain, URL, and SHA-256
