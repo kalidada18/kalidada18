@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
 
-<br/>
+<br/><br/>
 
 [![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
 ![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-FF1744?style=flat-square&labelColor=18181B)&nbsp;&nbsp;
@@ -28,9 +28,11 @@ $ ssh sujal@kalidada18.dev -p 2222
 └─$ cat ./profile.brief
 ```
 
+<br/>
+
 <table width="100%">
 <tr>
-<td width="57%" valign="top">
+<td width="55%" valign="top">
 
 > Cybersecurity practitioner working across **SOC operations, threat triage, and
 > detection engineering**, with hands-on time in FortiSIEM, LogPoint, LogRhythm,
@@ -41,7 +43,8 @@ $ ssh sujal@kalidada18.dev -p 2222
 <sub><code>B.Sc Computer Science · Network Technology and Cybersecurity</code></sub>
 
 </td>
-<td width="43%" valign="top">
+<td width="3%"></td>
+<td width="42%" valign="top">
 
 ```yaml
 # ./profile.brief
@@ -61,6 +64,8 @@ scope: isolated lab, authorized testing only
 </tr>
 </table>
 
+<br/>
+
 | Discipline | Execution | Primary stack |
 |:-----------|:----------|:--------------|
 | SOC operations | alert triage, enrichment, escalation, shift handoff | FortiSIEM / LogPoint / LogRhythm |
@@ -70,7 +75,11 @@ scope: isolated lab, authorized testing only
 | Offensive testing | authorized assessments and hardening follow-through | Kali / Burp Suite / Nmap |
 | OSINT fusion | feed ingestion, IOC dedupe, blocklist publishing | threatbase / MISP |
 
+<br/>
+
 <sub>**Research vectors:** adversary emulation (ATT&CK), open-source SOC orchestration, OSINT and threat feed intelligence, ML-assisted network defense, deception and honeypot telemetry.</sub>
+
+<br/><br/>
 
 <!-- ════════════════════════════ ARSENAL ══════════════════════════════ -->
 
@@ -110,11 +119,11 @@ scope: isolated lab, authorized testing only
 
 </details>
 
-<br/>
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 #### 🌐 Threatbase · production OSINT platform
 
@@ -137,7 +146,8 @@ scope: isolated lab, authorized testing only
 ```
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="3%"></td>
+<td width="37%" valign="top" align="center">
 
 <a href="https://star-history.com/#kalidada18/threatbase&Date">
 <img src="https://api.star-history.com/svg?repos=kalidada18/threatbase&type=Date" width="100%" alt="Threatbase star growth chart over time" />
@@ -146,10 +156,10 @@ scope: isolated lab, authorized testing only
 </td>
 </tr>
 <tr>
-<td colspan="2" height="20"></td>
+<td colspan="3" height="24"></td>
 </tr>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 #### 🛡️ KaliWall · ML network defense
 
@@ -169,7 +179,8 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 ```
 
 </td>
-<td width="38%" valign="top">
+<td width="3%"></td>
+<td width="37%" valign="top">
 
 #### ⚡ Multi-Layer SIEM · defense in depth
 
@@ -189,6 +200,8 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 </tr>
 </table>
 
+<br/><br/>
+
 <!-- ═══════════════════════════ RESEARCH ══════════════════════════════ -->
 
 ## 🔬 Research
@@ -199,7 +212,11 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 | Volumetric and protocol resilience testing | **[dos-attack](https://github.com/kalidada18/dos-attack)** | `Python` |
 | ARP poisoning and rogue DNS simulation | **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** | `Python` |
 
+<br/>
+
 <sub>Research builds are published for defensive study, isolated lab environments, and authorized testing only.</sub>
+
+<br/><br/>
 
 <!-- ═══════════════════════════ TOOLING ═══════════════════════════════ -->
 
@@ -209,12 +226,21 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,powershell,java,sql&theme=dark" alt="Programming languages: Python, Go, TypeScript, JavaScript, Bash, PowerShell, Java, SQL. Hover to animate" />
   </a>
+  <br/>
+  <sub><code>languages // scripting</code></sub>
 </p>
+
+<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare,react,mysql&theme=dark" alt="Platform stack: Linux, Kali, Docker, Git, GitHub, Cloudflare, React, MySQL. Hover to animate" />
   </a>
+  <br/>
+  <sub><code>platform // infrastructure</code></sub>
 </p>
+
+<br/>
 
 <details open>
 <summary><b>📡 SOC &amp; Defensive Engineering</b></summary>
@@ -225,10 +251,12 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 ![Wazuh](https://img.shields.io/badge/Wazuh-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-3F3F46?style=flat-square&logo=fortinet&logoColor=EE3124&labelColor=18181B)&nbsp;
 ![LogPoint](https://img.shields.io/badge/LogPoint-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
-![LogRhythm](https://img.shields.io/badge/LogRhythm-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
+![LogRhythm](https://img.shields.io/badge/LogRhythm-3F3F46?style=flat-square&labelColor=18181B)
+
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF1744?style=flat-square&labelColor=18181B)&nbsp;
 ![TheHive](https://img.shields.io/badge/TheHive-F7A41D?style=flat-square&labelColor=18181B)&nbsp;
-![MISP](https://img.shields.io/badge/MISP-e74343?style=flat-square&labelColor=18181B)&nbsp;
+![MISP](https://img.shields.io/badge/MISP-e74343?style=flat-square&labelColor=18181B)
+
 ![Suricata](https://img.shields.io/badge/Suricata-88c070?style=flat-square&labelColor=18181B)&nbsp;
 ![Snort](https://img.shields.io/badge/Snort-FF1744?style=flat-square&labelColor=18181B)&nbsp;
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=ffffff&labelColor=18181B)&nbsp;
@@ -236,21 +264,24 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 
 </details>
 
+<br/>
+
 <details open>
 <summary><b>⚔️ Offensive Security &amp; Testing</b></summary>
 <br/>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=ffffff&labelColor=18181B)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&labelColor=18181B)&nbsp;
-![Metasploit](https://img.shields.io/badge/Metasploit-7DCB40?style=flat-square&labelColor=18181B)&nbsp;
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-001D2C?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=18181B)&nbsp;
+![Metasploit](https://img.shields.io/badge/Metasploit-7DCB40?style=flat-square&labelColor=18181B)
+
 ![Nmap](https://img.shields.io/badge/Nmap-FF1744?style=flat-square&labelColor=18181B)&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=ffffff&labelColor=18181B)&nbsp;
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-001D2C?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=18181B)&nbsp;
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=ffffff&labelColor=18181B)
 
 </details>
 
-<br/>
+<br/><br/>
 
 ```
 FIELD PROFICIENCY                                          EST. SCALE
@@ -260,6 +291,8 @@ Network Defense & DPI           ████████████████
 Offensive Security & Pentesting ███████████████░░░░░  75%
 OSINT & Intelligence Fusion     ███████████████████░  95%
 ```
+
+<br/><br/>
 
 <!-- ══════════════════════════ COMBAT RECORD ══════════════════════════ -->
 
@@ -292,6 +325,8 @@ OSINT & Intelligence Fusion     ████████████████
   <img alt="Snake contribution grid animation" src="https://raw.githubusercontent.com/kalidada18/kalidada18/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+<br/><br/>
+
 </div>
 
 <!-- ══════════════════════ CONTACT UPLINK ══════════════════════ -->
@@ -300,18 +335,21 @@ OSINT & Intelligence Fusion     ████████████████
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=18181B)](https://sujallamichhane.com.np)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=18181B)](https://linkedin.com/in/sujal-lamichhane)&nbsp;
-[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=18181B)](https://sujallamichhane.com.np)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=18181B)](https://linkedin.com/in/sujal-lamichhane)
+
+[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)&nbsp;&nbsp;
 [![Threatbase](https://img.shields.io/badge/Threatbase-threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)
 
-<br/>
+<br/><br/>
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │  hack ethically. defend relentlessly.   -- sujal, 2026   │
 └──────────────────────────────────────────────────────────┘
 ```
+
+<br/>
 
 <sub><img src="https://komarev.com/ghpvc/?username=kalidada18&style=flat-square&color=FF1744&label=VISITS" alt="Profile visitor count" /></sub>
 
