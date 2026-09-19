@@ -4,15 +4,15 @@
 
 <h1>SUJAL LAMICHHANE</h1>
 
-<h3>Cybersecurity Professional &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; Certified Ethical Hacker</h3>
+<h3>Cybersecurity Practitioner &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; Certified Ethical Hacker</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%24+whoami+%E2%86%92+Security+Operations+Analyst;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;OSINT+%C2%B7+Malware+Analysis+%C2%B7+Detection+Engineering+%C2%B7+SOAR" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
 
 <br/>
 
-![Threatbase status](https://img.shields.io/website?style=flat-square&up_color=39d353&upMessage=threatbase%20LIVE&down_color=3F3F46&downMessage=threatbase%20DOWN&labelColor=18181B&url=https://threatbase.qzz.io)
-![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-3F3F46?style=flat-square&labelColor=18181B)
-![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)
+[![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
+![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-FF1744?style=flat-square&labelColor=18181B)&nbsp;&nbsp;
+[![Threatbase](https://img.shields.io/badge/threatbase-OSINT%20platform-3F3F46?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)
 
 <br/><br/>
 
@@ -28,19 +28,49 @@ $ ssh sujal@kalidada18.dev -p 2222
 └─$ cat ./profile.brief
 ```
 
-> I design, break, and harden security systems. Certified Ethical Hacker building
-> production-grade detection pipelines, open-source SOC infrastructure, and an OSINT
-> platform that processes millions of IOCs.
+<table width="100%">
+<tr>
+<td width="57%" valign="top">
 
-<sub><code>B.Sc Computer Science - Network Technology and Cybersecurity</code></sub>
+> Cybersecurity practitioner working across **SOC operations, threat triage, and
+> detection engineering**, with hands-on time in FortiSIEM, LogPoint, LogRhythm,
+> and Wazuh. I design, break, and harden security systems: production-grade
+> detection pipelines, open-source SOC infrastructure, and an OSINT platform
+> that processes millions of IOCs.
 
-| Core disciplines | Research interests |
-|:-----------------|:-------------------|
-| Detection Engineering | Adversary Emulation (ATT&CK) |
-| SIEM Telemetry and Correlation | Open-Source SOC Orchestration |
-| SOAR Automation | OSINT and Threat Feed Intelligence |
-| Threat Hunting | ML-Assisted Network Defense |
-| Penetration Testing | Deception Tech and Honeypot Telemetry |
+<sub><code>B.Sc Computer Science · Network Technology and Cybersecurity</code></sub>
+
+</td>
+<td width="43%" valign="top">
+
+```yaml
+# ./profile.brief
+operator: sujal lamichhane
+cert: EC-Council Certified Ethical Hacker
+domains:
+  - soc operations
+  - threat triage
+  - detection engineering
+kill_chain: ingest > detect > triage > contain > report
+siem_hands_on: FortiSIEM, LogPoint, LogRhythm, Wazuh
+osint_pipeline: 54 feeds, deduplicated
+scope: isolated lab, authorized testing only
+```
+
+</td>
+</tr>
+</table>
+
+| Discipline | Execution | Primary stack |
+|:-----------|:----------|:--------------|
+| SOC operations | alert triage, enrichment, escalation, shift handoff | FortiSIEM / LogPoint / LogRhythm |
+| Detection engineering | correlation rules, dashboards, ATT&CK mapping | Wazuh / Splunk / Elastic |
+| Incident response | case ownership, playbook design, SOAR automation | TheHive / Shuffle / MISP |
+| Threat hunting | hypothesis-led hunts on endpoint and network telemetry | Sysmon / Suricata / Wireshark |
+| Offensive testing | authorized assessments and hardening follow-through | Kali / Burp Suite / Nmap |
+| OSINT fusion | feed ingestion, IOC dedupe, blocklist publishing | threatbase / MISP |
+
+<sub>**Research vectors:** adversary emulation (ATT&CK), open-source SOC orchestration, OSINT and threat feed intelligence, ML-assisted network defense, deception and honeypot telemetry.</sub>
 
 <!-- ════════════════════════════ ARSENAL ══════════════════════════════ -->
 
@@ -48,17 +78,18 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 #### 🏆 Capstone · Unified Open-Source SOC Framework
 
-**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**
+**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**  
+<sub><code>detection → correlation → automated triage, one pipeline</code></sub>
 
 ![Stars](https://img.shields.io/github/stars/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
 ![Forks](https://img.shields.io/github/forks/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=3F3F46&labelColor=18181B)&nbsp;
-![Last commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=9ca3af&labelColor=18181B)
+![Last commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=3F3F46&labelColor=18181B)
 
 `Wazuh / Suricata / Shuffle / TheHive / MISP`
 
-> Final-year capstone: an enterprise-grade SOC built entirely from open source,
-> wiring Wazuh SIEM, Suricata NIDS, Shuffle SOAR, TheHive, and MISP into one
-> detection, correlation, and automated triage pipeline.
+> Final-year capstone: an enterprise-grade SOC assembled entirely from open
+> source, with endpoint and network telemetry, centralized correlation, and
+> automated triage feeding one incident workflow.
 
 <details>
 <summary><sub>architecture</sub></summary>
@@ -87,23 +118,23 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 #### 🌐 Threatbase · production OSINT platform
 
-**[threatbase](https://github.com/kalidada18/threatbase)**
+**[threatbase](https://github.com/kalidada18/threatbase)**  
+<sub><code>TypeScript / Python / React / Cloudflare</code></sub>
 
 ![Stars](https://img.shields.io/github/stars/kalidada18/threatbase?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![Feeds](https://img.shields.io/badge/feeds-54-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
-![Pipeline](https://img.shields.io/github/actions/workflow/status/kalidada18/threatbase/update-feed.yml?style=flat-square&label=feeds&labelColor=18181B)&nbsp;
-![Uptime](https://img.shields.io/website?style=flat-square&up_color=39d353&upMessage=LIVE&down_color=3F3F46&downMessage=DOWN&labelColor=18181B&url=https://threatbase.qzz.io)
+![Feed pipeline](https://img.shields.io/github/actions/workflow/status/kalidada18/threatbase/update-feed.yml?style=flat-square&label=feed%20pipeline&labelColor=18181B)&nbsp;
+![Uptime](https://img.shields.io/website?style=flat-square&up_color=39d353&up_message=LIVE&down_color=3F3F46&down_message=DOWN&label=threatbase&labelColor=18181B&url=https://threatbase.qzz.io)
 
-`TypeScript / Python / React / Cloudflare`
-
-> High-throughput OSINT aggregation consolidating **54 threat feeds** into
-> deduplicated IP, CIDR, domain, URL, and SHA-256 blocklists with live
-> dashboarding and retrospective archives.
+> CI-scheduled ingestion polls **54 threat feeds**, deduplicates across
+> sources, and publishes versioned IP, CIDR, domain, URL, and SHA-256
+> blocklists to a live dashboard with retrospective archives.
 
 ```
-54 Feeds ──> Fetch and Classify ──> Raw IOC Blocklists (IP / Domain / Hash)
-     │                                   ├──> Live Dashboard · threatbase.qzz.io
-     └───────────────────────────────────┴──> Retrospective ZIP Archives & Git Mirrors
+54 feeds ──> fetch ──> classify ──> dedupe
+  ├──> IP / CIDR / domain / URL lists
+  ├──> SHA-256 hash blocklists
+  ├──> live dashboard · threatbase.qzz.io
+  └──> ZIP archives · git mirrors
 ```
 
 </td>
@@ -119,38 +150,40 @@ $ ssh sujal@kalidada18.dev -p 2222
 <td colspan="2" height="20"></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
 #### 🛡️ KaliWall · ML network defense
 
-**[KaliWall](https://github.com/kalidada18/KaliWall)**
+**[KaliWall](https://github.com/kalidada18/KaliWall)**  
+<sub><code>Go / Linux / XGBoost</code></sub>
 
 ![Stars](https://img.shields.io/github/stars/kalidada18/KaliWall?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
 ![Go](https://img.shields.io/badge/Go-1.21%2B-3F3F46?style=flat-square&logo=go&logoColor=FF1744&labelColor=18181B)
-
-`Go / Linux / XGBoost`
 
 > A Linux firewall with real-time deep packet inspection, GeoIP filtering,
 > VirusTotal intel lookups, and XGBoost anomaly scoring behind a
 > FortiGate-inspired console.
 
+```
+ingress ──> DPI ──> GeoIP ──> VT lookup
+        └──> XGBoost score ──> verdict
+```
+
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
 #### ⚡ Multi-Layer SIEM · defense in depth
 
-**[Multi-Layer-Security-Integration-Based-on-SIEM-Solutions](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)**
+**[Multi-Layer-Security-Integration](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)**  
+<sub><code>Splunk / Elastic / Sysmon / Logstash</code></sub>
 
-![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![SIEM](https://img.shields.io/badge/Splunk%20%2F%20Elastic-3F3F46?style=flat-square&labelColor=18181B)
-
-`Splunk / Elastic / Sysmon / Logstash`
+![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=18181B)
 
 ```
-├── Perimeter    firewall + Snort/Suricata IDS
-├── Host         Sysmon telemetry + Logstash pipeline
-├── Analytics    SIEM correlation and dashboards
-└── Response     automated incident alerting
+├── Perimeter   fw + Suricata IDS
+├── Host        Sysmon + Logstash
+├── Analytics   SIEM correlation
+└── Response    auto alerting
 ```
 
 </td>
@@ -190,7 +223,10 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FF1744&labelColor=18181B)&nbsp;
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticcloud&logoColor=ffffff&labelColor=18181B)&nbsp;
-![Wazuh](https://img.shields.io/badge/Wazuh-00f58a?style=flat-square&labelColor=18181B)&nbsp;
+![Wazuh](https://img.shields.io/badge/Wazuh-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
+![FortiSIEM](https://img.shields.io/badge/FortiSIEM-3F3F46?style=flat-square&logo=fortinet&logoColor=EE3124&labelColor=18181B)&nbsp;
+![LogPoint](https://img.shields.io/badge/LogPoint-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
+![LogRhythm](https://img.shields.io/badge/LogRhythm-3F3F46?style=flat-square&labelColor=18181B)&nbsp;
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-FF1744?style=flat-square&labelColor=18181B)&nbsp;
 ![TheHive](https://img.shields.io/badge/TheHive-F7A41D?style=flat-square&labelColor=18181B)&nbsp;
 ![MISP](https://img.shields.io/badge/MISP-e74343?style=flat-square&labelColor=18181B)&nbsp;
