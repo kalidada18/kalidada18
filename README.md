@@ -311,6 +311,14 @@ OSINT & Intelligence Fusion     ████████████████
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&bg_color=0d0d0d&title_color=FF1744&icon_color=FF1744&text_color=9ca3af&rank_icon=github" height="158" alt="GitHub profile activity statistics" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=FF1744&text_color=9ca3af" height="158" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kalidada18&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="GitHub profile achievement trophies" />
+
+<br/><br/>
+
 <img src="https://ghchart.rshah.org/FF1744/kalidada18" width="100%" alt="Yearly contribution heatmap in crimson" />
 
 <br/>
