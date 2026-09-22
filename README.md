@@ -121,10 +121,6 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
 #### 🌐 Threatbase · production OSINT platform
 
 **[threatbase](https://github.com/kalidada18/threatbase)**  
@@ -145,21 +141,15 @@ scope: isolated lab, authorized testing only
   └──> ZIP archives · git mirrors
 ```
 
-</td>
-<td width="3%"></td>
-<td width="37%" valign="top" align="center">
+<br/>
 
+<p align="center">
 <a href="https://star-history.com/#kalidada18/threatbase&Date">
-<img src="https://api.star-history.com/svg?repos=kalidada18/threatbase&type=Date" width="100%" alt="Threatbase star growth chart over time" />
+<img src="https://api.star-history.com/svg?repos=kalidada18/threatbase&type=Date" width="72%" alt="Threatbase star growth chart over time" />
 </a>
+</p>
 
-</td>
-</tr>
-<tr>
-<td colspan="3" height="24"></td>
-</tr>
-<tr>
-<td width="60%" valign="top">
+<br/><br/>
 
 #### 🛡️ KaliWall · ML network defense
 
@@ -178,9 +168,7 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
         └──> XGBoost score ──> verdict
 ```
 
-</td>
-<td width="3%"></td>
-<td width="37%" valign="top">
+<br/><br/>
 
 #### ⚡ Multi-Layer SIEM · defense in depth
 
@@ -195,10 +183,6 @@ ingress ──> DPI ──> GeoIP ──> VT lookup
 ├── Analytics   SIEM correlation
 └── Response    auto alerting
 ```
-
-</td>
-</tr>
-</table>
 
 <br/><br/>
 
@@ -308,14 +292,6 @@ OSINT & Intelligence Fusion     ████████████████
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="158" alt="GitHub contribution streak statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&bg_color=0d0d0d&title_color=FF1744&icon_color=FF1744&text_color=9ca3af&rank_icon=github" height="158" alt="GitHub profile activity statistics" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=FF1744&text_color=9ca3af" height="158" alt="Most used programming languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kalidada18&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="GitHub profile achievement trophies" />
 
 <br/><br/>
 
