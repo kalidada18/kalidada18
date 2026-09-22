@@ -256,7 +256,7 @@ OSINT & Intelligence Fusion     ████████████████
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/kalidada18/kalidada18/metrics/github-metrics.svg" alt="Comprehensive GitHub metrics dashboard: activity, languages, commit calendar and achievements" />
+<img src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/github-metrics.svg" alt="Comprehensive GitHub metrics dashboard: activity, languages, commit calendar and achievements" />
 
 <br/><br/>
 

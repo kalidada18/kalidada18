@@ -5,10 +5,8 @@ on:
     # Refresh twice a day
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
+  # NOTE: intentionally no `push` trigger. The job commits github-metrics.svg back to
+  # the default branch, so a push trigger would cause a self-triggering loop.
 
 jobs:
   github-metrics:
@@ -22,11 +20,10 @@ jobs:
         with:
           # Public profile data only; falls back to the built-in token if no PAT is set.
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          # Commit the generated SVG to a dedicated branch so it never clobbers the snake's `output` branch.
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: metrics
-          filename: github-metrics.svg
           user: kalidada18
+
+          # Commit the SVG to the default branch (metrics cannot create a new branch here).
+          filename: github-metrics.svg
 
           template: classic
           base: header, activity, community
@@ -50,6 +47,6 @@ jobs:
           # Lines of code changed
           plugin_lines: yes
 
-          # Nudge GitHub primer accents toward the crimson brand
-          css: |
+          # Nudge GitHub primer accents toward the crimson brand (input is extras_css, not css)
+          extras_css: |
             :root, svg { --color-accent-emphasis: #FF1744; --color-accent-muted: rgba(255, 23, 68, 0.4); }
