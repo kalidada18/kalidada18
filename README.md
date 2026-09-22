@@ -256,6 +256,10 @@ OSINT & Intelligence Fusion     ████████████████
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/kalidada18/kalidada18/metrics/github-metrics.svg" alt="Comprehensive GitHub metrics dashboard: activity, languages, commit calendar and achievements" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="158" alt="GitHub contribution streak statistics" />
 
 <br/><br/>
