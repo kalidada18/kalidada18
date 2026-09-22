@@ -151,41 +151,6 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-#### 🛡️ KaliWall · ML network defense
-
-**[KaliWall](https://github.com/kalidada18/KaliWall)**  
-<sub><code>Go / Linux / XGBoost</code></sub>
-
-![Stars](https://img.shields.io/github/stars/kalidada18/KaliWall?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![Go](https://img.shields.io/badge/Go-1.21%2B-3F3F46?style=flat-square&logo=go&logoColor=FF1744&labelColor=18181B)
-
-> A Linux firewall with real-time deep packet inspection, GeoIP filtering,
-> VirusTotal intel lookups, and XGBoost anomaly scoring behind a
-> FortiGate-inspired console.
-
-```
-ingress ──> DPI ──> GeoIP ──> VT lookup
-        └──> XGBoost score ──> verdict
-```
-
-<br/><br/>
-
-#### ⚡ Multi-Layer SIEM · defense in depth
-
-**[Multi-Layer-Security-Integration](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)**  
-<sub><code>Splunk / Elastic / Sysmon / Logstash</code></sub>
-
-![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=18181B)
-
-```
-├── Perimeter   fw + Suricata IDS
-├── Host        Sysmon + Logstash
-├── Analytics   SIEM correlation
-└── Response    auto alerting
-```
-
-<br/><br/>
-
 <!-- ═══════════════════════════ RESEARCH ══════════════════════════════ -->
 
 ## 🔬 Research
