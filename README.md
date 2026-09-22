@@ -249,14 +249,10 @@ OSINT & Intelligence Fusion     ████████████████
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/kalidada18?style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
-![Stars earned](https://img.shields.io/github/stars/kalidada18?style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=flat-square&logo=github&labelColor=18181B&color=FF1744)&nbsp;
-![OSINT feeds](https://img.shields.io/badge/OSINT%20feeds-54%20active-3F3F46?style=flat-square&labelColor=18181B)
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/github-metrics.svg" alt="Comprehensive GitHub metrics dashboard: activity, languages, commit calendar and achievements" />
+![Followers](https://img.shields.io/github/followers/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
+![Stars earned](https://img.shields.io/github/stars/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
+![OSINT feeds](https://img.shields.io/badge/OSINT%20feeds-54%20active-3F3F46?style=for-the-badge&labelColor=18181B)
 
 <br/><br/>
 
