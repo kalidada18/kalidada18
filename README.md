@@ -2,13 +2,13 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
-<h1>SUJAL LAMICHHANE</h1>
+<h3>SUJAL LAMICHHANE</h3>
 
-<h3>Cybersecurity Practitioner &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; Certified Ethical Hacker</h3>
+<b>Cybersecurity Practitioner</b> &nbsp;·&nbsp; <b>Security Researcher</b> &nbsp;·&nbsp; <b>Certified Ethical Hacker</b>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=820&height=44&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
 
-<br/><br/>
+<br/>
 
 [![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
 ![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-FF1744?style=flat-square&labelColor=18181B)&nbsp;&nbsp;
