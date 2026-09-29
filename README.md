@@ -2,11 +2,13 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
-<h1>SUJAL LAMICHHANE</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-light.svg">
+  <img alt="Sujal Lamichhane // Cybersecurity Practitioner // Security Researcher // Certified Ethical Hacker" src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg" width="100%" />
+</picture>
 
-<b>Cybersecurity Practitioner</b> &nbsp;·&nbsp; <b>Security Researcher</b> &nbsp;·&nbsp; <b>Certified Ethical Hacker</b>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=820&height=44&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=820&height=44&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
 
 <br/>
 
@@ -75,62 +77,6 @@ scope: isolated lab, authorized testing only
 <br/>
 
 <sub>**Research vectors:** adversary emulation (ATT&CK), open-source SOC orchestration, ML-assisted network defense, deception and honeypot telemetry.</sub>
-
-<br/><br/>
-
-<!-- ════════════════════════════ ARSENAL ══════════════════════════════ -->
-
-## 🛠️ Arsenal
-
-### 🏆 Capstone · Unified Open-Source SOC Framework
-
-**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**  
-<sub><code>detection → correlation → automated triage, one pipeline</code></sub>
-
-![Stars](https://img.shields.io/github/stars/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![Forks](https://img.shields.io/github/forks/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=3F3F46&labelColor=18181B)&nbsp;
-![Last commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=3F3F46&labelColor=18181B)
-
-`Wazuh / Suricata / Shuffle / TheHive / MISP`
-
-> Final-year capstone: an enterprise-grade SOC assembled entirely from open
-> source, with endpoint and network telemetry, centralized correlation, and
-> automated triage feeding one incident workflow.
-
-<details>
-<summary><b>🗺️ Architecture</b></summary>
-
-<br/>
-
-```
-┌─────────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
-│ Endpoint / Network      │────> │ Suricata NIDS &         │────> │ Wazuh Centralized       │
-│ Telemetry Collectors    │      │ Wazuh Endpoint Agents   │      │ SIEM & Indexer Engine   │
-└─────────────────────────┘      └─────────────────────────┘      └────────────┬────────────┘
-                                                                               │ alerts
-┌─────────────────────────┐      ┌─────────────────────────┐                   │
-│ TheHive Incident Cases  │ <─── │ Shuffle SOAR            │ <─────────────────┘
-│ & MISP Threat Intel     │      │ Automation Engine       │
-└─────────────────────────┘      └─────────────────────────┘
-```
-
-</details>
-
-<br/><br/>
-
-<!-- ═══════════════════════════ RESEARCH ══════════════════════════════ -->
-
-## 🔬 Research
-
-| Focus | Project | Stack |
-|:------|:--------|:------|
-| Deception telemetry and attacker profiling | **[honeypot-java](https://github.com/kalidada18/honeypot-java)** | `Java` |
-| Volumetric and protocol resilience testing | **[dos-attack](https://github.com/kalidada18/dos-attack)** | `Python` |
-| ARP poisoning and rogue DNS simulation | **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** | `Python` |
-
-<br/>
-
-<sub>Research builds are published for defensive study and authorized testing in isolated labs only.</sub>
 
 <br/><br/>
 
