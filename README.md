@@ -2,7 +2,7 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
-<h3>SUJAL LAMICHHANE</h3>
+<h1>SUJAL LAMICHHANE</h1>
 
 <b>Cybersecurity Practitioner</b> &nbsp;·&nbsp; <b>Security Researcher</b> &nbsp;·&nbsp; <b>Certified Ethical Hacker</b>
 
@@ -10,9 +10,8 @@
 
 <br/>
 
-[![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-3F3F46?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
-![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-FF1744?style=flat-square&labelColor=18181B)&nbsp;&nbsp;
-[![Threatbase](https://img.shields.io/badge/threatbase-OSINT%20platform-3F3F46?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)
+[![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-FF1744?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
+![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-3F3F46?style=flat-square&labelColor=18181B)
 
 <br/><br/>
 
@@ -36,9 +35,9 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 > Cybersecurity practitioner working across **SOC operations, threat triage, and
 > detection engineering**, with hands-on time in FortiSIEM, LogPoint, LogRhythm,
-> and Wazuh. I design, break, and harden security systems: production-grade
-> detection pipelines, open-source SOC infrastructure, and an OSINT platform
-> that processes millions of IOCs.
+> and Wazuh. I design, break, and harden security systems — from production-grade
+> detection pipelines to open-source SOC infrastructure, built and validated in an
+> isolated lab.
 
 <sub><code>B.Sc Computer Science · Network Technology and Cybersecurity</code></sub>
 
@@ -54,9 +53,8 @@ domains:
   - soc operations
   - threat triage
   - detection engineering
-kill_chain: ingest > detect > triage > contain > report
+kill_chain: ingest → detect → triage → contain → report
 siem_hands_on: FortiSIEM, LogPoint, LogRhythm, Wazuh
-osint_pipeline: 54 feeds, deduplicated
 scope: isolated lab, authorized testing only
 ```
 
@@ -73,11 +71,10 @@ scope: isolated lab, authorized testing only
 | Incident response | case ownership, playbook design, SOAR automation | TheHive / Shuffle / MISP |
 | Threat hunting | hypothesis-led hunts on endpoint and network telemetry | Sysmon / Suricata / Wireshark |
 | Offensive testing | authorized assessments and hardening follow-through | Kali / Burp Suite / Nmap |
-| OSINT fusion | feed ingestion, IOC dedupe, blocklist publishing | threatbase / MISP |
 
 <br/>
 
-<sub>**Research vectors:** adversary emulation (ATT&CK), open-source SOC orchestration, OSINT and threat feed intelligence, ML-assisted network defense, deception and honeypot telemetry.</sub>
+<sub>**Research vectors:** adversary emulation (ATT&CK), open-source SOC orchestration, ML-assisted network defense, deception and honeypot telemetry.</sub>
 
 <br/><br/>
 
@@ -85,7 +82,7 @@ scope: isolated lab, authorized testing only
 
 ## 🛠️ Arsenal
 
-#### 🏆 Capstone · Unified Open-Source SOC Framework
+### 🏆 Capstone · Unified Open-Source SOC Framework
 
 **[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**  
 <sub><code>detection → correlation → automated triage, one pipeline</code></sub>
@@ -101,7 +98,7 @@ scope: isolated lab, authorized testing only
 > automated triage feeding one incident workflow.
 
 <details>
-<summary><sub>architecture</sub></summary>
+<summary><b>🗺️ Architecture</b></summary>
 
 <br/>
 
@@ -121,36 +118,6 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-#### 🌐 Threatbase · production OSINT platform
-
-**[threatbase](https://github.com/kalidada18/threatbase)**  
-<sub><code>TypeScript / Python / React / Cloudflare</code></sub>
-
-![Stars](https://img.shields.io/github/stars/kalidada18/threatbase?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
-![Feed pipeline](https://img.shields.io/github/actions/workflow/status/kalidada18/threatbase/update-feed.yml?style=flat-square&label=feed%20pipeline&labelColor=18181B)
-
-> CI-scheduled ingestion polls **54 threat feeds**, deduplicates across
-> sources, and publishes versioned IP, CIDR, domain, URL, and SHA-256
-> blocklists to a live dashboard with retrospective archives.
-
-```
-54 feeds ──> fetch ──> classify ──> dedupe
-  ├──> IP / CIDR / domain / URL lists
-  ├──> SHA-256 hash blocklists
-  ├──> live dashboard · threatbase.qzz.io
-  └──> ZIP archives · git mirrors
-```
-
-<br/>
-
-<p align="center">
-<a href="https://star-history.com/#kalidada18/threatbase&Date">
-<img src="https://api.star-history.com/svg?repos=kalidada18/threatbase&type=Date" width="72%" alt="Threatbase star growth chart over time" />
-</a>
-</p>
-
-<br/><br/>
-
 <!-- ═══════════════════════════ RESEARCH ══════════════════════════════ -->
 
 ## 🔬 Research
@@ -163,7 +130,7 @@ scope: isolated lab, authorized testing only
 
 <br/>
 
-<sub>Research builds are published for defensive study, isolated lab environments, and authorized testing only.</sub>
+<sub>Research builds are published for defensive study and authorized testing in isolated labs only.</sub>
 
 <br/><br/>
 
@@ -173,7 +140,7 @@ scope: isolated lab, authorized testing only
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,powershell,java,sql&theme=dark" alt="Programming languages: Python, Go, TypeScript, JavaScript, Bash, PowerShell, Java, SQL. Hover to animate" />
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,powershell,java,sql&theme=dark" alt="Programming languages: Python, Go, TypeScript, JavaScript, Bash, PowerShell, Java, SQL" />
   </a>
   <br/>
   <sub><code>languages // scripting</code></sub>
@@ -183,7 +150,7 @@ scope: isolated lab, authorized testing only
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare,react,mysql&theme=dark" alt="Platform stack: Linux, Kali, Docker, Git, GitHub, Cloudflare, React, MySQL. Hover to animate" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare,react,mysql&theme=dark" alt="Platform stack: Linux, Kali, Docker, Git, GitHub, Cloudflare, React, MySQL" />
   </a>
   <br/>
   <sub><code>platform // infrastructure</code></sub>
@@ -232,17 +199,6 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-```
-FIELD PROFICIENCY                                          EST. SCALE
-SOC & Detection Engineering     █████████████████░░░  85%
-Threat Hunting & SOAR           ████████████████░░░░  80%
-Network Defense & DPI           ██████████████████░░  90%
-Offensive Security & Pentesting ███████████████░░░░░  75%
-OSINT & Intelligence Fusion     ███████████████████░  95%
-```
-
-<br/><br/>
-
 <!-- ══════════════════════════ COMBAT RECORD ══════════════════════════ -->
 
 ## 📈 Combat Record
@@ -251,12 +207,11 @@ OSINT & Intelligence Fusion     ████████████████
 
 ![Followers](https://img.shields.io/github/followers/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
 ![Stars earned](https://img.shields.io/github/stars/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
-![OSINT feeds](https://img.shields.io/badge/OSINT%20feeds-54%20active-3F3F46?style=for-the-badge&labelColor=18181B)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d0d0d&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="158" alt="GitHub contribution streak statistics" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="158" alt="GitHub contribution streak statistics" />
 
 <br/><br/>
 
@@ -287,8 +242,7 @@ OSINT & Intelligence Fusion     ████████████████
 [![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=18181B)](https://sujallamichhane.com.np)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=18181B)](https://linkedin.com/in/sujal-lamichhane)
 
-[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)&nbsp;&nbsp;
-[![Threatbase](https://img.shields.io/badge/Threatbase-threatbase.qzz.io-FF1744?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=18181B)](https://threatbase.qzz.io)
+[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)
 
 <br/><br/>
 
