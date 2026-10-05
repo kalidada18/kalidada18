@@ -8,8 +8,6 @@
   <img alt="Sujal Lamichhane // Cybersecurity Practitioner // Security Researcher // Certified Ethical Hacker" src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=FF1744&center=true&vCenter=true&repeat=true&width=820&height=44&lines=%24+whoami+%E2%86%92+Cybersecurity+Practitioner;Hunting+threats.+Engineering+detections.+Shipping+defenses.;%24+./threat_hunt+--scope+SIEM+--mode+proactive;FortiSIEM+%C2%B7+LogPoint+%C2%B7+LogRhythm+%C2%B7+Wazuh" alt="Terminal-style animated typing introduction of Sujal Lamichhane" />
-
 <br/>
 
 [![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-FF1744?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
