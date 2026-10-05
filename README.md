@@ -12,12 +12,11 @@
 
 </div>
 
-<!-- ═══════════════════════ TERMINAL BRIEFING ═══════════════════════ -->
+<!-- ═══════════════════════════ ./briefing ═══════════════════════════ -->
 
-## 📋 Briefing
+## ▸ ./briefing
 
 ```bash
-$ ssh sujal@kalidada18.dev -p 2222
 ┌──(sujal㉿kali)-[~]
 └─$ cat ./profile.brief
 ```
@@ -30,7 +29,7 @@ $ ssh sujal@kalidada18.dev -p 2222
 
 > Cybersecurity practitioner working across **SOC operations, threat triage, and
 > detection engineering**, with hands-on time in FortiSIEM, LogPoint, LogRhythm,
-> and Wazuh. I design, break, and harden security systems — from production-grade
+> and Wazuh. I design, break, and harden security systems: from production-grade
 > detection pipelines to open-source SOC infrastructure, built and validated in an
 > isolated lab.
 
@@ -73,9 +72,40 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-<!-- ═══════════════════════════ TOOLING ═══════════════════════════════ -->
+<!-- ══════════════════════════ ./operations ══════════════════════════ -->
 
-## 🧰 Tooling
+## ▸ ./operations
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=KaliWall&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7" alt="KaliWall: open-source Linux firewall manager with real-time dashboard" />
+
+<br/><br/>
+
+</div>
+
+**adversary emulation**
+
+- **[ghostimplant](https://github.com/kalidada18/ghostimplant)** · C++ adversary emulation research framework
+- **[Ransomware-Simulation](https://github.com/kalidada18/Ransomware-Simulation)** · safe ransomware behavior simulation for detection validation
+- **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** · ARP and DNS spoofing for education and authorized testing
+
+**network defense**
+
+- **[DNS-sink-hole](https://github.com/kalidada18/DNS-sink-hole)** · Flask and dnsmasq sinkhole that blackholes malicious domains
+- **[trafficscannerforrats](https://github.com/kalidada18/trafficscannerforrats)** · passive PCAP analyzer flagging trojan beaconing and DNS tunneling
+- **[honeypot-java](https://github.com/kalidada18/honeypot-java)** · multi-protocol honeypot logging SSH, HTTP, FTP and RDP tradecraft
+
+**infrastructure & monitoring**
+
+- **[unified SOC framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)** · open-source security tooling integrated into one SOC workflow
+- **[WatchTower](https://github.com/kalidada18/WatchTower)** · async uptime, SSL and content-change monitoring with alerts
+
+<br/><br/>
+
+<!-- ══════════════════════════ ./toolchain ═══════════════════════════ -->
+
+## ▸ ./toolchain
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -98,7 +128,7 @@ scope: isolated lab, authorized testing only
 <br/>
 
 <details open>
-<summary><b>📡 SOC &amp; Defensive Engineering</b></summary>
+<summary><b>soc &amp; defensive engineering</b></summary>
 <br/>
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FF1744&labelColor=18181B)&nbsp;
@@ -122,7 +152,7 @@ scope: isolated lab, authorized testing only
 <br/>
 
 <details open>
-<summary><b>⚔️ Offensive Security &amp; Testing</b></summary>
+<summary><b>offensive security &amp; testing</b></summary>
 <br/>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=ffffff&labelColor=18181B)&nbsp;
@@ -138,27 +168,21 @@ scope: isolated lab, authorized testing only
 
 <br/><br/>
 
-<!-- ══════════════════════════ COMBAT RECORD ══════════════════════════ -->
+<!-- ═══════════════════════ ./combat_record ══════════════════════════ -->
 
-## 📈 Combat Record
+## ▸ ./combat_record
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
-![Stars earned](https://img.shields.io/github/stars/kalidada18?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)&nbsp;&nbsp;
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkalidada18&query=%24.public_repos&label=repositories&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=18181B&color=FF1744)
+<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics: stars, commits, pull requests, contributions" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="158" alt="GitHub contribution streak statistics" />
+<img src="https://streak-stats.demolab.com/?user=kalidada18&theme=dark&background=0d1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=9ca3af&dates=6b7280&sideNums=FF1744&currStreakNum=ffffff&hide_border=true" height="165" alt="GitHub contribution streak statistics" />
 
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/FF1744/kalidada18" width="100%" alt="Yearly contribution heatmap in crimson" />
-
-<br/>
-
-<sub>full-year contribution heatmap</sub>
 
 <br/><br/>
 
@@ -172,9 +196,9 @@ scope: isolated lab, authorized testing only
 
 </div>
 
-<!-- ══════════════════════ CONTACT UPLINK ══════════════════════ -->
+<!-- ══════════════════════════ ./uplink ══════════════════════════════ -->
 
-## 🛰️ Contact Uplink
+## ▸ ./uplink
 
 <div align="center">
 
