@@ -48,11 +48,11 @@ scope: isolated lab, authorized testing only
 
 | Discipline | Execution | Primary stack |
 |:-----------|:----------|:--------------|
-| SOC operations | alert triage, enrichment, escalation, shift handoff | FortiSIEM / LogPoint / LogRhythm |
-| Detection engineering | correlation rules, dashboards, ATT&CK mapping | Wazuh / Splunk / Elastic |
-| Incident response | case ownership, playbook design, SOAR automation | TheHive / Shuffle / MISP |
-| Threat hunting | hypothesis-led hunts on endpoint and network telemetry | Sysmon / Suricata / Wireshark |
-| Offensive testing | authorized assessments and hardening follow-through | Kali / Burp Suite / Nmap |
+| **SOC operations** | alert triage, enrichment, escalation, shift handoff | `FortiSIEM` `LogPoint` `LogRhythm` |
+| **Detection engineering** | correlation rules, dashboards, ATT&CK mapping | `Wazuh` `Splunk` `Elastic` |
+| **Incident response** | case ownership, playbook design, SOAR automation | `TheHive` `Shuffle` `MISP` |
+| **Threat hunting** | hypothesis-led hunts on endpoint and network telemetry | `Sysmon` `Suricata` `Wireshark` |
+| **Offensive testing** | authorized assessments and hardening follow-through | `Kali` `Burp Suite` `Nmap` |
 
 <br/>
 
@@ -68,26 +68,30 @@ scope: isolated lab, authorized testing only
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=KaliWall&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7" alt="KaliWall: open-source Linux firewall manager with real-time dashboard" />
 
+<br/>
+
+<sub>flagship build // go // real-time firewall management with geoip telemetry</sub>
+
 <br/><br/>
 
 </div>
 
-**adversary emulation**
+`adversary emulation`
 
-- **[ghostimplant](https://github.com/kalidada18/ghostimplant)** · C++ adversary emulation research framework
-- **[Ransomware-Simulation](https://github.com/kalidada18/Ransomware-Simulation)** · safe ransomware behavior simulation for detection validation
-- **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** · ARP and DNS spoofing for education and authorized testing
+- **[ghostimplant](https://github.com/kalidada18/ghostimplant)** `C++` · adversary emulation research framework
+- **[Ransomware-Simulation](https://github.com/kalidada18/Ransomware-Simulation)** `Python` · safe ransomware behavior simulation for detection validation
+- **[dns-spoofing-tool](https://github.com/kalidada18/dns-spoofing-tool)** `Python` · ARP and DNS spoofing for education and authorized testing
 
-**network defense**
+`network defense`
 
-- **[DNS-sink-hole](https://github.com/kalidada18/DNS-sink-hole)** · Flask and dnsmasq sinkhole that blackholes malicious domains
-- **[trafficscannerforrats](https://github.com/kalidada18/trafficscannerforrats)** · passive PCAP analyzer flagging trojan beaconing and DNS tunneling
-- **[honeypot-java](https://github.com/kalidada18/honeypot-java)** · multi-protocol honeypot logging SSH, HTTP, FTP and RDP tradecraft
+- **[DNS-sink-hole](https://github.com/kalidada18/DNS-sink-hole)** `Python` · Flask and dnsmasq sinkhole that blackholes malicious domains
+- **[trafficscannerforrats](https://github.com/kalidada18/trafficscannerforrats)** `Python` · passive PCAP analyzer flagging trojan beaconing and DNS tunneling
+- **[honeypot-java](https://github.com/kalidada18/honeypot-java)** `Java` · multi-protocol honeypot logging SSH, HTTP, FTP and RDP tradecraft
 
-**infrastructure & monitoring**
+`infrastructure & monitoring`
 
 - **[unified SOC framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)** · open-source security tooling integrated into one SOC workflow
-- **[WatchTower](https://github.com/kalidada18/WatchTower)** · async uptime, SSL and content-change monitoring with alerts
+- **[WatchTower](https://github.com/kalidada18/WatchTower)** `Python` · async uptime, SSL and content-change monitoring with alerts
 
 <br/><br/>
 
