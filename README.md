@@ -1,16 +1,25 @@
-<div align="center">
-
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-light.svg">
-  <img alt="Sujal Lamichhane: cybersecurity practitioner, security researcher, certified ethical hacker" src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg" width="100%" />
+  <img alt="sujal lamichhane, cybersecurity practitioner" src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg" width="100%" />
 </picture>
 
-<br/>
+A cybersecurity practitioner working across **SOC operations**, threat triage, and
+**detection engineering**, with hands-on time in **FortiSIEM**, **LogPoint**,
+**LogRhythm**, and **Wazuh**.
 
-</div>
+- **currently:** building detection pipelines and open-source SOC infrastructure in an isolated lab
+- **also in my wheelhouse:** incident response, threat hunting and adversary emulation (ATT&CK)
+- **ask me about:** alert triage, correlation rules, or hardening Linux
+- **open to:** SOC roles, security research and open-source collaboration
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=flat-square&logo=firefox&logoColor=ffffff&labelColor=18181B)](https://sujallamichhane.com.np)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=18181B)](https://linkedin.com/in/sujal-lamichhane)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)
+
+<br/>
 
 <!-- ═══════════════════════════ ./briefing ═══════════════════════════ -->
 
@@ -21,28 +30,11 @@
 └─$ cat ./profile.brief
 ```
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-> Cybersecurity practitioner working across **SOC operations, threat triage, and
-> detection engineering**, with hands-on time in FortiSIEM, LogPoint, LogRhythm,
-> and Wazuh. I design, break, and harden security systems: from production-grade
-> detection pipelines to open-source SOC infrastructure, built and validated in an
-> isolated lab.
-
-<sub><code>B.Sc Computer Science · Network Technology and Cybersecurity</code></sub>
-
-</td>
-<td width="3%"></td>
-<td width="42%" valign="top">
-
 ```yaml
 # ./profile.brief
 operator: sujal lamichhane
 cert: EC-Council Certified Ethical Hacker
+education: B.Sc Computer Science, Network Technology and Cybersecurity
 domains:
   - soc operations
   - threat triage
@@ -51,10 +43,6 @@ kill_chain: ingest → detect → triage → contain → report
 siem_hands_on: FortiSIEM, LogPoint, LogRhythm, Wazuh
 scope: isolated lab, authorized testing only
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -174,7 +162,7 @@ scope: isolated lab, authorized testing only
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics: stars, commits, pull requests, contributions" />
+<img src="https://github-readme-stats.vercel.app/api?username=kalidada18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics: stars, commits, pull requests, contributions" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidada18&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF1744&text_color=e4e4e7&langs_count=8" height="165" alt="Top languages by usage" />
 
 <br/><br/>
 
@@ -196,18 +184,9 @@ scope: isolated lab, authorized testing only
 
 </div>
 
-<!-- ══════════════════════════ ./uplink ══════════════════════════════ -->
-
-## ▸ ./uplink
+---
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sujallamichhane.com.np-FF1744?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=18181B)](https://sujallamichhane.com.np)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Lamichhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=18181B)](https://linkedin.com/in/sujal-lamichhane)
-
-[![Email](https://img.shields.io/badge/Email-lamichhanesujal18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=18181B)](mailto:lamichhanesujal18@gmail.com)
-
-<br/><br/>
 
 ```
 ┌──────────────────────────────────────────────────────────┐
