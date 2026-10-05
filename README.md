@@ -2,18 +2,13 @@
 
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-light.svg">
-  <img alt="Sujal Lamichhane // Cybersecurity Practitioner // Security Researcher // Certified Ethical Hacker" src="https://raw.githubusercontent.com/kalidada18/kalidada18/main/assets/hero-wordmark-dark.svg" width="100%" />
-</picture>
+# SUJAL <font color="#FF1744">LAMICHHANE</font>
+
+<kbd>cybersecurity practitioner</kbd>&nbsp;&nbsp;<kbd>security researcher</kbd>&nbsp;&nbsp;[<kbd>certified ethical hacker</kbd>](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+
+`$ whoami → hunting threats · engineering detections · shipping defenses`
 
 <br/>
-
-[![EC Council CEH](https://img.shields.io/badge/EC_Council-CEH-FF1744?style=flat-square&labelColor=18181B)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)&nbsp;&nbsp;
-![Open to collaboration](https://img.shields.io/badge/open%20to%20collaboration-3F3F46?style=flat-square&labelColor=18181B)
-
-<br/><br/>
 
 </div>
 
