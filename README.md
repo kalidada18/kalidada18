@@ -64,17 +64,35 @@ scope: isolated lab, authorized testing only
 
 ## ▸ ./operations
 
-<div align="center">
+**Minor project · Multi-Layer Security Integration Based on a SIEM Solution**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalidada18&repo=KaliWall&hide_border=true&bg_color=0d1117&title_color=FF1744&icon_color=FF1744&text_color=e4e4e7" alt="KaliWall: open-source Linux firewall manager with real-time dashboard" />
+**[Multi-Layer-Security-Integration-Based-on-SIEM-Solutions](https://github.com/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions)**
+<sub><code>pfSense · Suricata · Wazuh · OWASP Juice Shop</code></sub>
+
+![Stars](https://img.shields.io/github/stars/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
+![Forks](https://img.shields.io/github/forks/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&logo=github&color=3F3F46&labelColor=18181B)&nbsp;
+![Last commit](https://img.shields.io/github/last-commit/kalidada18/Multi-Layer-Security-Integration-Based-on-SIEM-Solutions?style=flat-square&color=3F3F46&labelColor=18181B)
+
+> Defense-in-depth lab: attacks simulated with Kali Linux and OWASP Juice Shop,
+> detected in real time across pfSense and Suricata layers, correlated and
+> analyzed through a SOC-oriented Wazuh SIEM pipeline.
 
 <br/>
 
-<sub>flagship build // go // real-time firewall management with geoip telemetry</sub>
+**Major project · Unified Open-Source SOC Framework**
+
+**[Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)**
+<sub><code>Wazuh · Suricata · Shuffle · TheHive · MISP</code></sub>
+
+![Stars](https://img.shields.io/github/stars/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=FF1744&labelColor=18181B)&nbsp;
+![Forks](https://img.shields.io/github/forks/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&logo=github&color=3F3F46&labelColor=18181B)&nbsp;
+![Last commit](https://img.shields.io/github/last-commit/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework?style=flat-square&color=3F3F46&labelColor=18181B)
+
+> Final-year capstone: an enterprise-grade SOC assembled entirely from open
+> source. detection → enrichment → automated blocking → case handling in one
+> incident workflow.
 
 <br/><br/>
-
-</div>
 
 `adversary emulation`
 
@@ -90,7 +108,6 @@ scope: isolated lab, authorized testing only
 
 `infrastructure & monitoring`
 
-- **[unified SOC framework](https://github.com/kalidada18/Integration-of-Open-Source-Security-Tools-for-a-Unified-SOC-Framework)** · open-source security tooling integrated into one SOC workflow
 - **[WatchTower](https://github.com/kalidada18/WatchTower)** `Python` · async uptime, SSL and content-change monitoring with alerts
 
 <br/><br/>
